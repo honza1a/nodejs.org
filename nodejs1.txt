@@ -1,0 +1,3382 @@
+ Volume in drive D is HD
+ Volume Serial Number is F216-F738
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                79 .browserslistrc
+27.05.2021  17:03               239 .editorconfig
+27.05.2021  17:03                28 .eslintrc
+27.05.2021  17:03                43 .gitattributes
+27.05.2021  17:03    <DIR>          .github
+27.05.2021  17:03               216 .gitignore
+27.05.2021  17:03                57 .mailmap
+27.05.2021  17:03               460 .remarkrc
+27.05.2021  17:03                19 .stylelintignore
+27.05.2021  17:03               255 .stylelintrc
+27.05.2021  17:03            10ÿ663 build.js
+27.05.2021  17:03               568 CODEOWNERS
+27.05.2021  17:03             8ÿ456 COLLABORATOR_GUIDE.md
+27.05.2021  17:03             2ÿ953 CONTRIBUTING.md
+27.05.2021  17:03               545 crowdin.yml
+27.05.2021  17:03    <DIR>          external
+27.05.2021  17:03    <DIR>          layouts
+27.05.2021  17:03             1ÿ175 LICENSE
+27.05.2021  17:03    <DIR>          locale
+27.05.2021  17:03             3ÿ053 package.json
+27.05.2021  17:03           360ÿ889 package-lock.json
+27.05.2021  17:03             5ÿ168 README.md
+27.05.2021  17:03    <DIR>          scripts
+27.05.2021  17:03             3ÿ888 server.js
+27.05.2021  17:03    <DIR>          source
+27.05.2021  17:03    <DIR>          static
+27.05.2021  17:03    <DIR>          tests
+27.05.2021  17:03             5ÿ058 TRANSLATION.md
+              20 File(s)        403ÿ812 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git
+
+27.05.2021  17:03               304 config
+27.05.2021  17:03                73 description
+27.05.2021  17:03                23 HEAD
+27.05.2021  17:03    <DIR>          hooks
+27.05.2021  17:03           173ÿ977 index
+27.05.2021  17:03    <DIR>          info
+27.05.2021  17:03    <DIR>          logs
+27.05.2021  17:03    <DIR>          objects
+27.05.2021  17:03               647 packed-refs
+27.05.2021  17:03    <DIR>          refs
+               5 File(s)        175ÿ024 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\hooks
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               478 applypatch-msg.sample
+27.05.2021  17:03               896 commit-msg.sample
+27.05.2021  17:03             4ÿ655 fsmonitor-watchman.sample
+27.05.2021  17:03               189 post-update.sample
+27.05.2021  17:03               424 pre-applypatch.sample
+27.05.2021  17:03             1ÿ643 pre-commit.sample
+27.05.2021  17:03               416 pre-merge-commit.sample
+27.05.2021  17:03             1ÿ492 prepare-commit-msg.sample
+27.05.2021  17:03             1ÿ374 pre-push.sample
+27.05.2021  17:03             4ÿ898 pre-rebase.sample
+27.05.2021  17:03               544 pre-receive.sample
+27.05.2021  17:03             2ÿ783 push-to-checkout.sample
+27.05.2021  17:03             3ÿ650 update.sample
+              13 File(s)         23ÿ442 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\info
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\logs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               183 HEAD
+27.05.2021  17:03    <DIR>          refs
+               1 File(s)            183 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\logs\refs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          heads
+27.05.2021  17:03    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\logs\refs\heads
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               183 master
+               1 File(s)            183 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\logs\refs\remotes
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\logs\refs\remotes\origin
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               183 HEAD
+               1 File(s)            183 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\objects
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          info
+27.05.2021  17:03    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\objects\info
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\objects\pack
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03           827ÿ408 pack-7e808547c7e0aa52ecfe65c98413dfc41344823b.idx
+27.05.2021  17:03        72ÿ997ÿ868 pack-7e808547c7e0aa52ecfe65c98413dfc41344823b.pack
+               2 File(s)     73ÿ825ÿ276 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\refs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          heads
+27.05.2021  17:03    <DIR>          remotes
+27.05.2021  17:03    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\refs\heads
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                41 master
+               1 File(s)             41 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\refs\remotes
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\refs\remotes\origin
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                32 HEAD
+               1 File(s)             32 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.git\refs\tags
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.github
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               241 dependabot.yml
+27.05.2021  17:03    <DIR>          ISSUE_TEMPLATE
+27.05.2021  17:03               292 ISSUE_TEMPLATE.md
+27.05.2021  17:03    <DIR>          workflows
+               2 File(s)            533 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.github\ISSUE_TEMPLATE
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               495 01-bug_report.md
+27.05.2021  17:03               477 02-feature_request.md
+27.05.2021  17:03               302 03-i18n.md
+27.05.2021  17:03               261 04-api_docs.md
+27.05.2021  17:03               201 05-help.md
+               5 File(s)          1ÿ736 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\.github\workflows
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               688 test.yml
+               1 File(s)            688 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\external
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          survey-2018
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\external\survey-2018
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03         1ÿ654ÿ128 2018-nodejs-user-survey-raw-data.xlsx
+27.05.2021  17:03         2ÿ426ÿ925 2018-nodejs-user-survey-report.pdf
+27.05.2021  17:03           121ÿ200 bootstrap.min.css
+27.05.2021  17:03            37ÿ045 bootstrap.min.js
+27.05.2021  17:03           151ÿ725 d3.v3.min.js
+27.05.2021  17:03            52ÿ518 data.js
+27.05.2021  17:03            36ÿ333 data.min.js
+27.05.2021  17:03            34ÿ935 full.js
+27.05.2021  17:03            22ÿ227 full.min.js
+27.05.2021  17:03             2ÿ676 graph.html
+27.05.2021  17:03             9ÿ414 graph.js
+27.05.2021  17:03             5ÿ405 graph.min.js
+27.05.2021  17:03    <DIR>          images
+27.05.2021  17:03           115ÿ538 index.html
+27.05.2021  17:03            86ÿ929 jquery.min.js
+27.05.2021  17:03             8ÿ483 linksBE.csv
+27.05.2021  17:03             8ÿ483 linksFE.csv
+27.05.2021  17:03             8ÿ483 linksFS.csv
+27.05.2021  17:03               495 nodes.csv
+27.05.2021  17:03               269 package.json
+27.05.2021  17:03             1ÿ026 package-lock.json
+27.05.2021  17:03             4ÿ651 style.css
+              21 File(s)      4ÿ788ÿ888 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\external\survey-2018\images
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            71ÿ691 footer.png
+27.05.2021  17:03           463ÿ789 header.png
+27.05.2021  17:03    <DIR>          charts
+27.05.2021  17:03             5ÿ516 logo_footer.png
+27.05.2021  17:03            11ÿ571 logo_header.png
+27.05.2021  17:03               278 picture2.png
+27.05.2021  17:03               601 picture3.png
+27.05.2021  17:03               331 picture4.png
+27.05.2021  17:03           197ÿ691 picture5.png
+27.05.2021  17:03             1ÿ398 picture6.png
+27.05.2021  17:03    <DIR>          twitter
+               9 File(s)        752ÿ866 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\external\survey-2018\images\charts
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ720 capture.png
+27.05.2021  17:03             6ÿ444 capture1_1.png
+27.05.2021  17:03            11ÿ960 capture1_2.png
+27.05.2021  17:03            13ÿ132 capture11.png
+27.05.2021  17:03            13ÿ979 capture12.png
+27.05.2021  17:03            11ÿ103 capture14.png
+27.05.2021  17:03            14ÿ269 capture15.png
+27.05.2021  17:03            47ÿ004 capture18.png
+27.05.2021  17:03            53ÿ358 capture2.png
+27.05.2021  17:03            38ÿ435 capture20.png
+27.05.2021  17:03            45ÿ725 capture21.png
+27.05.2021  17:03            41ÿ809 capture22.png
+27.05.2021  17:03            48ÿ232 capture23.png
+27.05.2021  17:03            13ÿ283 capture24.png
+27.05.2021  17:03            33ÿ537 capture25.png
+27.05.2021  17:03            40ÿ484 capture26.png
+27.05.2021  17:03            13ÿ181 capture27.png
+27.05.2021  17:03            28ÿ271 capture28.png
+27.05.2021  17:03            34ÿ625 capture29.png
+27.05.2021  17:03            37ÿ614 capture3.png
+27.05.2021  17:03            53ÿ656 capture30.png
+27.05.2021  17:03            49ÿ417 capture31.png
+27.05.2021  17:03            47ÿ411 capture32.png
+27.05.2021  17:03            46ÿ318 capture33.png
+27.05.2021  17:03            43ÿ684 capture34.png
+27.05.2021  17:03            16ÿ571 capture35.png
+27.05.2021  17:03            16ÿ647 capture36.png
+27.05.2021  17:03            27ÿ480 capture38.png
+27.05.2021  17:03             5ÿ777 capture39.png
+27.05.2021  17:03            35ÿ763 capture40.png
+27.05.2021  17:03            39ÿ180 capture41.png
+27.05.2021  17:03            32ÿ660 capture42.png
+27.05.2021  17:03            13ÿ970 capture43.png
+27.05.2021  17:03             4ÿ321 capture45.png
+27.05.2021  17:03            12ÿ148 capture46.png
+27.05.2021  17:03            94ÿ308 capture47.png
+27.05.2021  17:03            24ÿ266 capture5.png
+27.05.2021  17:03             9ÿ373 capture6.png
+27.05.2021  17:03            20ÿ538 capture8.png
+              39 File(s)      1ÿ146ÿ653 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\external\survey-2018\images\twitter
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            25ÿ575 chart1.png
+27.05.2021  17:03            23ÿ012 chart10.png
+27.05.2021  17:03            19ÿ803 chart11.png
+27.05.2021  17:03            20ÿ370 chart12.png
+27.05.2021  17:03            13ÿ088 chart13.png
+27.05.2021  17:03           328ÿ994 chart14.png
+27.05.2021  17:03             6ÿ045 chart15.png
+27.05.2021  17:03             5ÿ880 chart16.png
+27.05.2021  17:03            16ÿ770 chart17.png
+27.05.2021  17:03            17ÿ454 chart18.png
+27.05.2021  17:03            50ÿ378 chart19.png
+27.05.2021  17:03            59ÿ178 chart2.png
+27.05.2021  17:03            19ÿ329 chart20.png
+27.05.2021  17:03            39ÿ058 chart21.png
+27.05.2021  17:03            45ÿ641 chart22.png
+27.05.2021  17:03            40ÿ699 chart23.png
+27.05.2021  17:03            61ÿ294 chart24.png
+27.05.2021  17:03             6ÿ241 chart25.png
+27.05.2021  17:03            35ÿ228 chart26.png
+27.05.2021  17:03            40ÿ944 chart27.png
+27.05.2021  17:03             5ÿ810 chart28.png
+27.05.2021  17:03            30ÿ417 chart29.png
+27.05.2021  17:03            41ÿ080 chart3.png
+27.05.2021  17:03            34ÿ521 chart30.png
+27.05.2021  17:03            55ÿ261 chart31.png
+27.05.2021  17:03            49ÿ733 chart32.png
+27.05.2021  17:03            47ÿ286 chart33.png
+27.05.2021  17:03            46ÿ882 chart34.png
+27.05.2021  17:03            44ÿ697 chart35.png
+27.05.2021  17:03            25ÿ318 chart36.png
+27.05.2021  17:03            24ÿ455 chart37.png
+27.05.2021  17:03            23ÿ034 chart38.png
+27.05.2021  17:03            31ÿ530 chart39.png
+27.05.2021  17:03            18ÿ793 chart4.png
+27.05.2021  17:03             1ÿ478 chart40.png
+27.05.2021  17:03            36ÿ956 chart41.png
+27.05.2021  17:03            41ÿ469 chart42.png
+27.05.2021  17:03            33ÿ404 chart43.png
+27.05.2021  17:03            23ÿ927 chart44.png
+27.05.2021  17:03            12ÿ979 chart45.png
+27.05.2021  17:03            28ÿ446 chart5.png
+27.05.2021  17:03            17ÿ053 chart6.png
+27.05.2021  17:03            24ÿ843 chart7.png
+27.05.2021  17:03             9ÿ827 chart8.png
+27.05.2021  17:03            22ÿ216 chart9.png
+              45 File(s)      1ÿ606ÿ396 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\layouts
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               329 about.hbs
+27.05.2021  17:03               611 about-release-schedule.hbs
+27.05.2021  17:03               182 black-lives-matter.hbs
+27.05.2021  17:03             1ÿ246 blog-index.hbs
+27.05.2021  17:03               527 blog-post.hbs
+27.05.2021  17:03               791 category-index.hbs
+27.05.2021  17:03               335 contribute.hbs
+27.05.2021  17:03    <DIR>          css
+27.05.2021  17:03               366 docs.hbs
+27.05.2021  17:03               543 download.hbs
+27.05.2021  17:03               559 download-current.hbs
+27.05.2021  17:03             1ÿ860 download-releases.hbs
+27.05.2021  17:03             3ÿ175 index.hbs
+27.05.2021  17:03               605 knowledge-base-index.hbs
+27.05.2021  17:03               527 knowledge-post.hbs
+27.05.2021  17:03               243 page.hbs
+27.05.2021  17:03    <DIR>          partials
+27.05.2021  17:03               280 security.hbs
+              16 File(s)         12ÿ179 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\layouts\css
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ400 _base.scss
+27.05.2021  17:03               489 _utils.scss
+27.05.2021  17:03               429 _variables.scss
+27.05.2021  17:03    <DIR>          layout
+27.05.2021  17:03    <DIR>          page-modules
+27.05.2021  17:03             2ÿ277 styles.scss
+27.05.2021  17:03    <DIR>          vendor
+               4 File(s)          4ÿ595 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\layouts\css\layout
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               148 _grid.scss
+27.05.2021  17:03               383 _lists.scss
+27.05.2021  17:03                50 _main.scss
+27.05.2021  17:03               216 _sticky-footer.scss
+               4 File(s)            797 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\layouts\css\page-modules
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               321 _anchorLinks.scss
+27.05.2021  17:03               232 _blog-index.scss
+27.05.2021  17:03               160 _blog-post.scss
+27.05.2021  17:03               442 _contributor-card.scss
+27.05.2021  17:03             3ÿ833 _download.scss
+27.05.2021  17:03               262 _footer.scss
+27.05.2021  17:03             2ÿ558 _header.scss
+27.05.2021  17:03             3ÿ794 _home.scss
+27.05.2021  17:03               749 _jsfoundation.scss
+27.05.2021  17:03               117 _prev-next-navigation.scss
+27.05.2021  17:03               376 _release-schedule.scss
+27.05.2021  17:03               167 _resources.scss
+27.05.2021  17:03               679 _scrollToTop.scss
+27.05.2021  17:03               376 spinner.scss
+              14 File(s)         14ÿ066 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\layouts\css\vendor
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ690 prism-tomorrow.css
+               1 File(s)          1ÿ690 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\layouts\partials
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               191 blm-footer.hbs
+27.05.2021  17:03                89 blm-header.hbs
+27.05.2021  17:03             2ÿ279 blm-html-head.hbs
+27.05.2021  17:03             2ÿ143 blm-styles.hbs
+27.05.2021  17:03               816 contributor-card.hbs
+27.05.2021  17:03             1ÿ033 download-list.hbs
+27.05.2021  17:03               710 favicons.hbs
+27.05.2021  17:03             1ÿ475 footer.hbs
+27.05.2021  17:03             3ÿ264 header.hbs
+27.05.2021  17:03             1ÿ895 html-head.hbs
+27.05.2021  17:03               682 navigation.hbs
+27.05.2021  17:03               289 prev-next-navigation.hbs
+27.05.2021  17:03             4ÿ965 primary-download-matrix.hbs
+27.05.2021  17:03             1ÿ088 secondary-download-matrix.hbs
+              14 File(s)         20ÿ919 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          ar
+27.05.2021  17:03    <DIR>          ca
+27.05.2021  17:03    <DIR>          de
+27.05.2021  17:03    <DIR>          en
+27.05.2021  17:03    <DIR>          es
+27.05.2021  17:03    <DIR>          fa
+27.05.2021  17:03    <DIR>          fr
+27.05.2021  17:03    <DIR>          gl
+27.05.2021  17:03    <DIR>          it
+27.05.2021  17:03    <DIR>          ja
+27.05.2021  17:03    <DIR>          ko
+27.05.2021  17:03    <DIR>          pt-br
+27.05.2021  17:03    <DIR>          ro
+27.05.2021  17:03    <DIR>          ru
+27.05.2021  17:03    <DIR>          tr
+27.05.2021  17:03    <DIR>          uk
+27.05.2021  17:03    <DIR>          zh-cn
+27.05.2021  17:03    <DIR>          zh-tw
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               159 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               723 index.md
+27.05.2021  17:03             5ÿ361 security.md
+27.05.2021  17:03             4ÿ113 site.json
+               4 File(s)         10ÿ356 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ357 community.md
+27.05.2021  17:03             2ÿ174 governance.md
+27.05.2021  17:03             4ÿ731 index.md
+27.05.2021  17:03            23ÿ833 privacy.md
+27.05.2021  17:03             1ÿ268 releases.md
+27.05.2021  17:03             1ÿ796 resources.md
+27.05.2021  17:03             2ÿ030 trademark.md
+27.05.2021  17:03            15ÿ161 working-groups.md
+               8 File(s)         58ÿ350 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ242 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             2ÿ551 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          6ÿ793 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            11ÿ253 abi-stability.md
+27.05.2021  17:03            19ÿ905 anatomy-of-an-http-transaction.md
+27.05.2021  17:03            14ÿ472 debugging-getting-started.md
+27.05.2021  17:03               913 getting-started-guide.md
+27.05.2021  17:03             1ÿ555 index.md
+27.05.2021  17:03             3ÿ295 publishing-napi-modules.md
+               6 File(s)         51ÿ393 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ823 dependencies.md
+               1 File(s)          4ÿ823 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ763 current.md
+27.05.2021  17:03             1ÿ368 index.md
+27.05.2021  17:03             8ÿ814 package-manager.md
+27.05.2021  17:03             1ÿ449 releases.md
+               4 File(s)         13ÿ394 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ar\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ200 code-and-learn.md
+27.05.2021  17:03             1ÿ815 collab-summit.md
+27.05.2021  17:03             4ÿ672 contribute.md
+27.05.2021  17:03             3ÿ213 index.md
+27.05.2021  17:03            18ÿ930 node-meetups.md
+               5 File(s)         30ÿ830 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ca
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               126 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               651 index.md
+27.05.2021  17:03             3ÿ310 security.md
+27.05.2021  17:03             3ÿ593 site.json
+               4 File(s)          7ÿ680 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ca\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ552 index.md
+               1 File(s)          3ÿ552 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ca\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ065 index.md
+               1 File(s)          2ÿ065 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ca\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ361 current.md
+27.05.2021  17:03             1ÿ350 index.md
+               2 File(s)          2ÿ711 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ca\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ360 index.md
+               1 File(s)          2ÿ360 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\de
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               135 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03               657 index.md
+27.05.2021  17:03             3ÿ081 site.json
+               3 File(s)          3ÿ873 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\de\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ511 index.md
+               1 File(s)          3ÿ511 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\de\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ144 index.md
+               1 File(s)          2ÿ144 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\de\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               970 current.md
+27.05.2021  17:03             1ÿ414 index.md
+               2 File(s)          2ÿ384 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               125 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03             6ÿ300 black-lives-matter.md
+27.05.2021  17:03    <DIR>          blog
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               608 index.md
+27.05.2021  17:03    <DIR>          knowledge
+27.05.2021  17:03             3ÿ375 security.md
+27.05.2021  17:03             3ÿ690 site.json
+               5 File(s)         14ÿ098 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ330 community.md
+27.05.2021  17:03             1ÿ596 governance.md
+27.05.2021  17:03             3ÿ036 index.md
+27.05.2021  17:03            33ÿ048 privacy.md
+27.05.2021  17:03               886 releases.md
+27.05.2021  17:03             1ÿ583 resources.md
+27.05.2021  17:03             1ÿ572 trademark.md
+27.05.2021  17:03            12ÿ141 working-groups.md
+               8 File(s)         59ÿ192 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          advisory-board
+27.05.2021  17:03    <DIR>          announcements
+27.05.2021  17:03    <DIR>          community
+27.05.2021  17:03    <DIR>          feature
+27.05.2021  17:03                46 index.md
+27.05.2021  17:03    <DIR>          module
+27.05.2021  17:03             3ÿ079 nodejs-road-ahead.md
+27.05.2021  17:03    <DIR>          npm
+27.05.2021  17:03    <DIR>          release
+27.05.2021  17:03    <DIR>          uncategorized
+27.05.2021  17:03    <DIR>          video
+27.05.2021  17:03    <DIR>          vulnerability
+27.05.2021  17:03    <DIR>          weekly-updates
+27.05.2021  17:03    <DIR>          wg
+               2 File(s)          3ÿ125 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\advisory-board
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ147 advisory-board-update.md
+27.05.2021  17:03                95 index.md
+27.05.2021  17:03             1ÿ069 listening-to-the-community.md
+               3 File(s)          7ÿ311 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\announcements
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ898 adjusted-release-schedule-covid.md
+27.05.2021  17:03             6ÿ316 apigee-rising-stack-yahoo.md
+27.05.2021  17:03             6ÿ956 appdynamics-newrelic-opbeat-sphinx.md
+27.05.2021  17:03             5ÿ266 cars-dynatrace.md
+27.05.2021  17:03             8ÿ463 foundation-advances-growth.md
+27.05.2021  17:03             4ÿ683 foundation-elects-board.md
+27.05.2021  17:03             4ÿ437 foundation-express-news.md
+27.05.2021  17:03             5ÿ928 foundation-v4-announce.md
+27.05.2021  17:03                94 index.md
+27.05.2021  17:03             2ÿ497 interactive-2015.md
+27.05.2021  17:03             5ÿ925 interactive-2015-keynotes.md
+27.05.2021  17:03             6ÿ781 interactive-2015-programming.md
+27.05.2021  17:03             5ÿ858 interactive-2016-ams.md
+27.05.2021  17:03             7ÿ435 interactive-2016-north-america-schedule.md
+27.05.2021  17:03             3ÿ645 nodejs-certified-developer-program.md
+27.05.2021  17:03             6ÿ158 nodejs-foundation-momentum-release.md
+27.05.2021  17:03             7ÿ005 nodejs-foundation-survey.md
+27.05.2021  17:03             5ÿ399 nodejs-security-project.md
+27.05.2021  17:03             5ÿ255 v6-release.md
+27.05.2021  17:03             2ÿ088 welcome-google.md
+27.05.2021  17:03             4ÿ168 welcome-redhat.md
+              21 File(s)        106ÿ255 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\community
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ405 2017-election.md
+27.05.2021  17:03            10ÿ777 building-nodejs-together.md
+27.05.2021  17:03             5ÿ340 foundation-benefits-all.md
+27.05.2021  17:03                90 index.md
+27.05.2021  17:03             2ÿ529 individual-membership.md
+27.05.2021  17:03             5ÿ762 next-chapter.md
+27.05.2021  17:03             7ÿ489 node-leaders-building-open-neutral-foundation.md
+27.05.2021  17:03             5ÿ724 node-v5.md
+27.05.2021  17:03            12ÿ816 quality-with-speed.md
+27.05.2021  17:03             2ÿ090 transitions.md
+27.05.2021  17:03             2ÿ955 update-v8-5.4.md
+27.05.2021  17:03             5ÿ954 v5-to-v7.md
+              12 File(s)         65ÿ931 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\feature
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                89 index.md
+27.05.2021  17:03            30ÿ030 streams2.md
+               2 File(s)         30ÿ119 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\module
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                88 index.md
+27.05.2021  17:03             5ÿ064 multi-server-continuous-deployment-with-fleet.md
+27.05.2021  17:03            18ÿ427 service-logging-in-json-with-bunyan.md
+               3 File(s)         23ÿ579 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\npm
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ700 2013-outage-postmortem.md
+27.05.2021  17:03                84 index.md
+27.05.2021  17:03            14ÿ681 managing-node-js-dependencies-with-shrinkwrap.md
+27.05.2021  17:03             4ÿ214 npm-1-0-global-vs-local-installation.md
+27.05.2021  17:03             7ÿ310 npm-1-0-link.md
+27.05.2021  17:03             2ÿ003 npm-1-0-released.md
+27.05.2021  17:03             6ÿ963 npm-1-0-the-new-ls.md
+27.05.2021  17:03             7ÿ161 peer-dependencies.md
+               8 File(s)         50ÿ116 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\release
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                89 index.md
+27.05.2021  17:03            30ÿ191 v0.10.0.md
+27.05.2021  17:03             3ÿ012 v0.10.1.md
+27.05.2021  17:03             2ÿ352 v0.10.10.md
+27.05.2021  17:03             2ÿ596 v0.10.11.md
+27.05.2021  17:03             2ÿ519 v0.10.12.md
+27.05.2021  17:03             2ÿ783 v0.10.13.md
+27.05.2021  17:03             2ÿ742 v0.10.14.md
+27.05.2021  17:03             2ÿ403 v0.10.15.md
+27.05.2021  17:03             2ÿ861 v0.10.16.md
+27.05.2021  17:03             3ÿ998 v0.10.17.md
+27.05.2021  17:03             2ÿ502 v0.10.18.md
+27.05.2021  17:03             2ÿ733 v0.10.19.md
+27.05.2021  17:03             3ÿ134 v0.10.2.md
+27.05.2021  17:03             2ÿ445 v0.10.20.md
+27.05.2021  17:03             2ÿ816 v0.10.21.md
+27.05.2021  17:03             2ÿ881 v0.10.22.md
+27.05.2021  17:03             3ÿ202 v0.10.23.md
+27.05.2021  17:03             2ÿ618 v0.10.24.md
+27.05.2021  17:03             2ÿ779 v0.10.25.md
+27.05.2021  17:03             3ÿ033 v0.10.26.md
+27.05.2021  17:03             3ÿ112 v0.10.27.md
+27.05.2021  17:03             2ÿ371 v0.10.28.md
+27.05.2021  17:03             3ÿ226 v0.10.29.md
+27.05.2021  17:03             2ÿ808 v0.10.3.md
+27.05.2021  17:03             3ÿ751 v0.10.30.md
+27.05.2021  17:03             3ÿ088 v0.10.31.md
+27.05.2021  17:03             3ÿ131 v0.10.32.md
+27.05.2021  17:03             6ÿ185 v0.10.33.md
+27.05.2021  17:03             3ÿ253 v0.10.34.md
+27.05.2021  17:03             2ÿ936 v0.10.35.md
+27.05.2021  17:03             2ÿ883 v0.10.36.md
+27.05.2021  17:03             4ÿ121 v0.10.37.md
+27.05.2021  17:03             3ÿ573 v0.10.38.md
+27.05.2021  17:03             4ÿ715 v0.10.39.md
+27.05.2021  17:03             3ÿ031 v0.10.4.md
+27.05.2021  17:03             3ÿ750 v0.10.40.md
+27.05.2021  17:03            13ÿ634 v0.10.41.md
+27.05.2021  17:03             6ÿ842 v0.10.42.md
+27.05.2021  17:03             8ÿ980 v0.10.43.md
+27.05.2021  17:03             6ÿ921 v0.10.44.md
+27.05.2021  17:03             6ÿ763 v0.10.45.md
+27.05.2021  17:03             5ÿ868 v0.10.46.md
+27.05.2021  17:03             8ÿ263 v0.10.47.md
+27.05.2021  17:03             5ÿ458 v0.10.48.md
+27.05.2021  17:03             2ÿ674 v0.10.5.md
+27.05.2021  17:03             2ÿ441 v0.10.6.md
+27.05.2021  17:03             2ÿ395 v0.10.7.md
+27.05.2021  17:03             2ÿ693 v0.10.8.md
+27.05.2021  17:03             2ÿ438 v0.10.9.md
+27.05.2021  17:03             3ÿ322 v0.11.0.md
+27.05.2021  17:03             2ÿ662 v0.11.1.md
+27.05.2021  17:03             3ÿ806 v0.11.10.md
+27.05.2021  17:03             3ÿ931 v0.11.11.md
+27.05.2021  17:03             4ÿ515 v0.11.12.md
+27.05.2021  17:03             7ÿ682 v0.11.14.md
+27.05.2021  17:03             8ÿ316 v0.11.15.md
+27.05.2021  17:03             3ÿ616 v0.11.16.md
+27.05.2021  17:03             3ÿ086 v0.11.2.md
+27.05.2021  17:03             3ÿ508 v0.11.3.md
+27.05.2021  17:03             3ÿ210 v0.11.4.md
+27.05.2021  17:03             3ÿ215 v0.11.5.md
+27.05.2021  17:03             3ÿ903 v0.11.6.md
+27.05.2021  17:03             3ÿ411 v0.11.7.md
+27.05.2021  17:03             3ÿ383 v0.11.8.md
+27.05.2021  17:03             3ÿ384 v0.11.9.md
+27.05.2021  17:03             9ÿ254 v0.12.0.md
+27.05.2021  17:03             3ÿ524 v0.12.1.md
+27.05.2021  17:03             6ÿ830 v0.12.10.md
+27.05.2021  17:03             9ÿ621 v0.12.11.md
+27.05.2021  17:03             5ÿ528 v0.12.12.md
+27.05.2021  17:03             7ÿ519 v0.12.13.md
+27.05.2021  17:03             6ÿ855 v0.12.14.md
+27.05.2021  17:03             6ÿ194 v0.12.15.md
+27.05.2021  17:03             8ÿ302 v0.12.16.md
+27.05.2021  17:03             5ÿ292 v0.12.17.md
+27.05.2021  17:03             5ÿ786 v0.12.18.md
+27.05.2021  17:03             4ÿ445 v0.12.2.md
+27.05.2021  17:03             3ÿ821 v0.12.3.md
+27.05.2021  17:03             3ÿ431 v0.12.4.md
+27.05.2021  17:03             4ÿ771 v0.12.5.md
+27.05.2021  17:03             3ÿ586 v0.12.6.md
+27.05.2021  17:03             3ÿ787 v0.12.7.md
+27.05.2021  17:03            20ÿ253 v0.12.8.md
+27.05.2021  17:03             4ÿ912 v0.12.9.md
+27.05.2021  17:03             1ÿ082 v0.4.10.md
+27.05.2021  17:03             1ÿ410 v0.4.11.md
+27.05.2021  17:03               997 v0.4.12.md
+27.05.2021  17:03             1ÿ033 v0.4.3.md
+27.05.2021  17:03               844 v0.4.4.md
+27.05.2021  17:03               913 v0.4.5.md
+27.05.2021  17:03             1ÿ190 v0.4.6.md
+27.05.2021  17:03               850 v0.4.7.md
+27.05.2021  17:03             1ÿ483 v0.4.8.md
+27.05.2021  17:03             1ÿ314 v0.4.9.md
+27.05.2021  17:03             1ÿ768 v0.5.0.md
+27.05.2021  17:03             1ÿ165 v0.5.1.md
+27.05.2021  17:03             1ÿ944 v0.5.10.md
+27.05.2021  17:03             1ÿ051 v0.5.2.md
+27.05.2021  17:03             1ÿ703 v0.5.3.md
+27.05.2021  17:03             1ÿ246 v0.5.4.md
+27.05.2021  17:03             2ÿ096 v0.5.5.md
+27.05.2021  17:03             2ÿ985 v0.5.6.md
+27.05.2021  17:03             1ÿ390 v0.5.7.md
+27.05.2021  17:03             1ÿ084 v0.5.8.md
+27.05.2021  17:03             1ÿ242 v0.5.9.md
+27.05.2021  17:03             4ÿ838 v0.6.0.md
+27.05.2021  17:03             1ÿ425 v0.6.1.md
+27.05.2021  17:03             1ÿ312 v0.6.10.md
+27.05.2021  17:03             2ÿ024 v0.6.11.md
+27.05.2021  17:03             1ÿ887 v0.6.12.md
+27.05.2021  17:03             1ÿ583 v0.6.13.md
+27.05.2021  17:03             1ÿ643 v0.6.14.md
+27.05.2021  17:03             1ÿ628 v0.6.15.md
+27.05.2021  17:03             1ÿ642 v0.6.16.md
+27.05.2021  17:03             1ÿ363 v0.6.17.md
+27.05.2021  17:03             1ÿ816 v0.6.18.md
+27.05.2021  17:03             2ÿ095 v0.6.19.md
+27.05.2021  17:03             1ÿ347 v0.6.2.md
+27.05.2021  17:03             1ÿ680 v0.6.20.md
+27.05.2021  17:03             1ÿ449 v0.6.21.md
+27.05.2021  17:03             1ÿ442 v0.6.3.md
+27.05.2021  17:03             1ÿ376 v0.6.4.md
+27.05.2021  17:03               800 v0.6.5.md
+27.05.2021  17:03             1ÿ218 v0.6.6.md
+27.05.2021  17:03             1ÿ833 v0.6.7.md
+27.05.2021  17:03             1ÿ291 v0.6.8.md
+27.05.2021  17:03             1ÿ182 v0.6.9.md
+27.05.2021  17:03             1ÿ102 v0.7.0.md
+27.05.2021  17:03             1ÿ128 v0.7.1.md
+27.05.2021  17:03             2ÿ711 v0.7.10.md
+27.05.2021  17:03             2ÿ386 v0.7.11.md
+27.05.2021  17:03             4ÿ381 v0.7.12.md
+27.05.2021  17:03             1ÿ496 v0.7.2.md
+27.05.2021  17:03             1ÿ066 v0.7.3.md
+27.05.2021  17:03             1ÿ303 v0.7.4.md
+27.05.2021  17:03             1ÿ771 v0.7.5.md
+27.05.2021  17:03             2ÿ104 v0.7.6.md
+27.05.2021  17:03             2ÿ088 v0.7.7.md
+27.05.2021  17:03             1ÿ933 v0.7.8.md
+27.05.2021  17:03             2ÿ117 v0.7.9.md
+27.05.2021  17:03            14ÿ617 v0.8.0.md
+27.05.2021  17:03             2ÿ470 v0.8.1.md
+27.05.2021  17:03             3ÿ331 v0.8.10.md
+27.05.2021  17:03             2ÿ437 v0.8.11.md
+27.05.2021  17:03             2ÿ716 v0.8.12.md
+27.05.2021  17:03             2ÿ748 v0.8.13.md
+27.05.2021  17:03             2ÿ917 v0.8.14.md
+27.05.2021  17:03             2ÿ613 v0.8.15.md
+27.05.2021  17:03             2ÿ456 v0.8.16.md
+27.05.2021  17:03             3ÿ077 v0.8.17.md
+27.05.2021  17:03             2ÿ471 v0.8.18.md
+27.05.2021  17:03             2ÿ679 v0.8.19.md
+27.05.2021  17:03             2ÿ361 v0.8.2.md
+27.05.2021  17:03             2ÿ384 v0.8.20.md
+27.05.2021  17:03             3ÿ585 v0.8.21.md
+27.05.2021  17:03             2ÿ362 v0.8.22.md
+27.05.2021  17:03             2ÿ602 v0.8.23.md
+27.05.2021  17:03             2ÿ386 v0.8.24.md
+27.05.2021  17:03             2ÿ261 v0.8.25.md
+27.05.2021  17:03             2ÿ753 v0.8.26.md
+27.05.2021  17:03             2ÿ303 v0.8.27.md
+27.05.2021  17:03             2ÿ476 v0.8.28.md
+27.05.2021  17:03             2ÿ201 v0.8.3.md
+27.05.2021  17:03             1ÿ922 v0.8.4.md
+27.05.2021  17:03             2ÿ647 v0.8.5.md
+27.05.2021  17:03             3ÿ297 v0.8.6.md
+27.05.2021  17:03             2ÿ713 v0.8.7.md
+27.05.2021  17:03             2ÿ744 v0.8.8.md
+27.05.2021  17:03             3ÿ388 v0.8.9.md
+27.05.2021  17:03             1ÿ988 v0.9.0.md
+27.05.2021  17:03             4ÿ041 v0.9.1.md
+27.05.2021  17:03             3ÿ072 v0.9.10.md
+27.05.2021  17:03             3ÿ107 v0.9.11.md
+27.05.2021  17:03             3ÿ796 v0.9.12.md
+27.05.2021  17:03             3ÿ256 v0.9.2.md
+27.05.2021  17:03             3ÿ142 v0.9.3.md
+27.05.2021  17:03             3ÿ477 v0.9.4.md
+27.05.2021  17:03             2ÿ973 v0.9.5.md
+27.05.2021  17:03             3ÿ087 v0.9.6.md
+27.05.2021  17:03             2ÿ899 v0.9.7.md
+27.05.2021  17:03             2ÿ783 v0.9.8.md
+27.05.2021  17:03           169ÿ312 v10.0.0.md
+27.05.2021  17:03            37ÿ971 v10.1.0.md
+27.05.2021  17:03            47ÿ417 v10.10.0.md
+27.05.2021  17:03            26ÿ262 v10.11.0.md
+27.05.2021  17:03            57ÿ162 v10.12.0.md
+27.05.2021  17:03             6ÿ447 v10.13.0.md
+27.05.2021  17:03             8ÿ641 v10.14.0.md
+27.05.2021  17:03             6ÿ181 v10.14.1.md
+27.05.2021  17:03            76ÿ295 v10.14.2.md
+27.05.2021  17:03             7ÿ742 v10.15.0.md
+27.05.2021  17:03            47ÿ769 v10.15.1.md
+27.05.2021  17:03             6ÿ389 v10.15.2.md
+27.05.2021  17:03            44ÿ717 v10.15.3.md
+27.05.2021  17:03            72ÿ415 v10.16.0.md
+27.05.2021  17:03            11ÿ823 v10.16.1.md
+27.05.2021  17:03             5ÿ906 v10.16.2.md
+27.05.2021  17:03            12ÿ148 v10.16.3.md
+27.05.2021  17:03            15ÿ926 v10.17.0.md
+27.05.2021  17:03             5ÿ968 v10.18.0.md
+27.05.2021  17:03             8ÿ585 v10.18.1.md
+27.05.2021  17:03             7ÿ919 v10.19.0.md
+27.05.2021  17:03            46ÿ096 v10.2.0.md
+27.05.2021  17:03             6ÿ115 v10.2.1.md
+27.05.2021  17:03            17ÿ581 v10.20.0.md
+27.05.2021  17:03             5ÿ965 v10.20.1.md
+27.05.2021  17:03             6ÿ885 v10.21.0.md
+27.05.2021  17:03             9ÿ934 v10.22.0.md
+27.05.2021  17:03             5ÿ849 v10.22.1.md
+27.05.2021  17:03             8ÿ533 v10.23.0.md
+27.05.2021  17:03            13ÿ539 v10.3.0.md
+27.05.2021  17:03            22ÿ881 v10.4.0.md
+27.05.2021  17:03             9ÿ559 v10.4.1.md
+27.05.2021  17:03            35ÿ059 v10.5.0.md
+27.05.2021  17:03            27ÿ506 v10.6.0.md
+27.05.2021  17:03            28ÿ503 v10.7.0.md
+27.05.2021  17:03            24ÿ062 v10.8.0.md
+27.05.2021  17:03            36ÿ417 v10.9.0.md
+27.05.2021  17:03            98ÿ706 v11.0.0.md
+27.05.2021  17:03            21ÿ811 v11.1.0.md
+27.05.2021  17:03            48ÿ159 v11.10.0.md
+27.05.2021  17:03             6ÿ393 v11.10.1.md
+27.05.2021  17:03            45ÿ949 v11.11.0.md
+27.05.2021  17:03            35ÿ437 v11.12.0.md
+27.05.2021  17:03            38ÿ461 v11.13.0.md
+27.05.2021  17:03            31ÿ405 v11.14.0.md
+27.05.2021  17:03             9ÿ446 v11.15.0.md
+27.05.2021  17:03            53ÿ411 v11.2.0.md
+27.05.2021  17:03             9ÿ267 v11.3.0.md
+27.05.2021  17:03            66ÿ416 v11.4.0.md
+27.05.2021  17:03            22ÿ018 v11.5.0.md
+27.05.2021  17:03            17ÿ086 v11.6.0.md
+27.05.2021  17:03            53ÿ078 v11.7.0.md
+27.05.2021  17:03            23ÿ427 v11.8.0.md
+27.05.2021  17:03            21ÿ071 v11.9.0.md
+27.05.2021  17:03            97ÿ647 v12.0.0.md
+27.05.2021  17:03            15ÿ259 v12.1.0.md
+27.05.2021  17:03            21ÿ509 v12.10.0.md
+27.05.2021  17:03            34ÿ038 v12.11.0.md
+27.05.2021  17:03            12ÿ009 v12.11.1.md
+27.05.2021  17:03            18ÿ456 v12.12.0.md
+27.05.2021  17:03             9ÿ120 v12.13.0.md
+27.05.2021  17:03            24ÿ581 v12.13.1.md
+27.05.2021  17:03             5ÿ668 v12.14.0.md
+27.05.2021  17:03            46ÿ796 v12.14.1.md
+27.05.2021  17:03             8ÿ061 v12.15.0.md
+27.05.2021  17:03           100ÿ494 v12.16.0.md
+27.05.2021  17:03             9ÿ761 v12.16.1.md
+27.05.2021  17:03            79ÿ126 v12.16.2.md
+27.05.2021  17:03            41ÿ366 v12.16.3.md
+27.05.2021  17:03            83ÿ292 v12.17.0.md
+27.05.2021  17:03             7ÿ162 v12.18.0.md
+27.05.2021  17:03            22ÿ328 v12.18.1.md
+27.05.2021  17:03             5ÿ976 v12.18.2.md
+27.05.2021  17:03            39ÿ212 v12.18.3.md
+27.05.2021  17:03             6ÿ099 v12.18.4.md
+27.05.2021  17:03           102ÿ092 v12.19.0.md
+27.05.2021  17:03             5ÿ809 v12.19.1.md
+27.05.2021  17:03            27ÿ799 v12.2.0.md
+27.05.2021  17:03            30ÿ609 v12.3.0.md
+27.05.2021  17:03             6ÿ634 v12.3.1.md
+27.05.2021  17:03            27ÿ257 v12.4.0.md
+27.05.2021  17:03            43ÿ093 v12.5.0.md
+27.05.2021  17:03            33ÿ727 v12.6.0.md
+27.05.2021  17:03            37ÿ842 v12.7.0.md
+27.05.2021  17:03            22ÿ492 v12.8.0.md
+27.05.2021  17:03            11ÿ054 v12.8.1.md
+27.05.2021  17:03            25ÿ636 v12.9.0.md
+27.05.2021  17:03             7ÿ300 v12.9.1.md
+27.05.2021  17:03            35ÿ011 v13.0.0.md
+27.05.2021  17:03            11ÿ876 v13.0.1.md
+27.05.2021  17:03            18ÿ601 v13.1.0.md
+27.05.2021  17:03            23ÿ107 v13.10.0.md
+27.05.2021  17:03             8ÿ629 v13.10.1.md
+27.05.2021  17:03            25ÿ999 v13.11.0.md
+27.05.2021  17:03            25ÿ145 v13.12.0.md
+27.05.2021  17:03            41ÿ306 v13.13.0.md
+27.05.2021  17:03            27ÿ410 v13.14.0.md
+27.05.2021  17:03            39ÿ642 v13.2.0.md
+27.05.2021  17:03            39ÿ761 v13.3.0.md
+27.05.2021  17:03            28ÿ955 v13.4.0.md
+27.05.2021  17:03            19ÿ149 v13.5.0.md
+27.05.2021  17:03            39ÿ925 v13.6.0.md
+27.05.2021  17:03            26ÿ961 v13.7.0.md
+27.05.2021  17:03             7ÿ197 v13.8.0.md
+27.05.2021  17:03            48ÿ421 v13.9.0.md
+27.05.2021  17:03            52ÿ040 v14.0.0.md
+27.05.2021  17:03            23ÿ335 v14.1.0.md
+27.05.2021  17:03            24ÿ260 v14.10.0.md
+27.05.2021  17:03             5ÿ767 v14.10.1.md
+27.05.2021  17:03             5ÿ998 v14.11.0.md
+27.05.2021  17:03            18ÿ933 v14.12.0.md
+27.05.2021  17:03            13ÿ487 v14.13.0.md
+27.05.2021  17:03            16ÿ283 v14.13.1.md
+27.05.2021  17:03            21ÿ012 v14.14.0.md
+27.05.2021  17:03             6ÿ147 v14.15.0.md
+27.05.2021  17:03             5ÿ524 v14.15.1.md
+27.05.2021  17:03            18ÿ910 v14.2.0.md
+27.05.2021  17:03            27ÿ109 v14.3.0.md
+27.05.2021  17:03             6ÿ828 v14.4.0.md
+27.05.2021  17:03            68ÿ168 v14.5.0.md
+27.05.2021  17:03            32ÿ371 v14.6.0.md
+27.05.2021  17:03            19ÿ961 v14.7.0.md
+27.05.2021  17:03            21ÿ295 v14.8.0.md
+27.05.2021  17:03            24ÿ949 v14.9.0.md
+27.05.2021  17:03            80ÿ301 v15.0.0.md
+27.05.2021  17:03             7ÿ116 v15.0.1.md
+27.05.2021  17:03            32ÿ998 v15.1.0.md
+27.05.2021  17:03            17ÿ625 v15.2.0.md
+27.05.2021  17:03             6ÿ949 v15.2.1.md
+27.05.2021  17:03            24ÿ294 v4.0.0.md
+27.05.2021  17:03            16ÿ991 v4.1.0.md
+27.05.2021  17:03            11ÿ884 v4.1.1.md
+27.05.2021  17:03            14ÿ253 v4.1.2.md
+27.05.2021  17:03            17ÿ865 v4.2.0.md
+27.05.2021  17:03             6ÿ290 v4.2.1.md
+27.05.2021  17:03            19ÿ206 v4.2.2.md
+27.05.2021  17:03             6ÿ816 v4.2.3.md
+27.05.2021  17:03            33ÿ047 v4.2.4.md
+27.05.2021  17:03            40ÿ268 v4.2.5.md
+27.05.2021  17:03             5ÿ511 v4.2.6.md
+27.05.2021  17:03             6ÿ488 v4.3.0.md
+27.05.2021  17:03            16ÿ814 v4.3.1.md
+27.05.2021  17:03             6ÿ372 v4.3.2.md
+27.05.2021  17:03            46ÿ409 v4.4.0.md
+27.05.2021  17:03            25ÿ794 v4.4.1.md
+27.05.2021  17:03            13ÿ838 v4.4.2.md
+27.05.2021  17:03            14ÿ733 v4.4.3.md
+27.05.2021  17:03             6ÿ865 v4.4.4.md
+27.05.2021  17:03            19ÿ358 v4.4.5.md
+27.05.2021  17:03             5ÿ543 v4.4.6.md
+27.05.2021  17:03            22ÿ207 v4.4.7.md
+27.05.2021  17:03            54ÿ861 v4.5.0.md
+27.05.2021  17:03            11ÿ553 v4.6.0.md
+27.05.2021  17:03             6ÿ385 v4.6.1.md
+27.05.2021  17:03            46ÿ444 v4.6.2.md
+27.05.2021  17:03            27ÿ012 v4.7.0.md
+27.05.2021  17:03            43ÿ268 v4.7.1.md
+27.05.2021  17:03             6ÿ045 v4.7.2.md
+27.05.2021  17:03             7ÿ305 v4.7.3.md
+27.05.2021  17:03            29ÿ356 v4.8.0.md
+27.05.2021  17:03            33ÿ405 v4.8.1.md
+27.05.2021  17:03             6ÿ548 v4.8.2.md
+27.05.2021  17:03             9ÿ044 v4.8.3.md
+27.05.2021  17:03             7ÿ348 v4.8.4.md
+27.05.2021  17:03             6ÿ481 v4.8.5.md
+27.05.2021  17:03            15ÿ149 v4.8.6.md
+27.05.2021  17:03             7ÿ260 v4.8.7.md
+27.05.2021  17:03             9ÿ104 v4.9.0.md
+27.05.2021  17:03             6ÿ163 v4.9.1.md
+27.05.2021  17:03            34ÿ356 v5.0.0.md
+27.05.2021  17:03            32ÿ096 v5.1.0.md
+27.05.2021  17:03             6ÿ930 v5.1.1.md
+27.05.2021  17:03            17ÿ436 v5.10.0.md
+27.05.2021  17:03            10ÿ743 v5.10.1.md
+27.05.2021  17:03            24ÿ398 v5.11.0.md
+27.05.2021  17:03             7ÿ608 v5.11.1.md
+27.05.2021  17:03             7ÿ211 v5.12.0.md
+27.05.2021  17:03            25ÿ966 v5.2.0.md
+27.05.2021  17:03            15ÿ610 v5.3.0.md
+27.05.2021  17:03            24ÿ497 v5.4.0.md
+27.05.2021  17:03            10ÿ533 v5.4.1.md
+27.05.2021  17:03            17ÿ581 v5.5.0.md
+27.05.2021  17:03            30ÿ932 v5.6.0.md
+27.05.2021  17:03            28ÿ885 v5.7.0.md
+27.05.2021  17:03            20ÿ997 v5.7.1.md
+27.05.2021  17:03            11ÿ725 v5.8.0.md
+27.05.2021  17:03            15ÿ300 v5.9.0.md
+27.05.2021  17:03            13ÿ486 v5.9.1.md
+27.05.2021  17:03            38ÿ756 v6.0.0.md
+27.05.2021  17:03            18ÿ000 v6.1.0.md
+27.05.2021  17:03            38ÿ162 v6.10.0.md
+27.05.2021  17:03            63ÿ350 v6.10.1.md
+27.05.2021  17:03             8ÿ100 v6.10.2.md
+27.05.2021  17:03            34ÿ685 v6.10.3.md
+27.05.2021  17:03            31ÿ740 v6.11.0.md
+27.05.2021  17:03             7ÿ842 v6.11.1.md
+27.05.2021  17:03            48ÿ329 v6.11.2.md
+27.05.2021  17:03            34ÿ911 v6.11.3.md
+27.05.2021  17:03            23ÿ201 v6.11.4.md
+27.05.2021  17:03             7ÿ011 v6.11.5.md
+27.05.2021  17:03            31ÿ665 v6.12.0.md
+27.05.2021  17:03            55ÿ421 v6.12.1.md
+27.05.2021  17:03             7ÿ790 v6.12.2.md
+27.05.2021  17:03            27ÿ413 v6.12.3.md
+27.05.2021  17:03            29ÿ547 v6.13.0.md
+27.05.2021  17:03            10ÿ614 v6.13.1.md
+27.05.2021  17:03            10ÿ035 v6.14.0.md
+27.05.2021  17:03             6ÿ693 v6.14.1.md
+27.05.2021  17:03            48ÿ218 v6.14.2.md
+27.05.2021  17:03             7ÿ032 v6.14.3.md
+27.05.2021  17:03             8ÿ937 v6.14.4.md
+27.05.2021  17:03            11ÿ775 v6.15.0.md
+27.05.2021  17:03             6ÿ827 v6.15.1.md
+27.05.2021  17:03             7ÿ324 v6.16.0.md
+27.05.2021  17:03             9ÿ916 v6.17.0.md
+27.05.2021  17:03             7ÿ814 v6.17.1.md
+27.05.2021  17:03            28ÿ998 v6.2.0.md
+27.05.2021  17:03            32ÿ973 v6.2.1.md
+27.05.2021  17:03            18ÿ162 v6.2.2.md
+27.05.2021  17:03            36ÿ676 v6.3.0.md
+27.05.2021  17:03            22ÿ267 v6.3.1.md
+27.05.2021  17:03            36ÿ380 v6.4.0.md
+27.05.2021  17:03            23ÿ052 v6.5.0.md
+27.05.2021  17:03            28ÿ101 v6.6.0.md
+27.05.2021  17:03            12ÿ805 v6.7.0.md
+27.05.2021  17:03            46ÿ828 v6.8.0.md
+27.05.2021  17:03             7ÿ377 v6.8.1.md
+27.05.2021  17:03            12ÿ893 v6.9.0.md
+27.05.2021  17:03             7ÿ208 v6.9.1.md
+27.05.2021  17:03            33ÿ338 v6.9.2.md
+27.05.2021  17:03            68ÿ769 v6.9.3.md
+27.05.2021  17:03             6ÿ531 v6.9.4.md
+27.05.2021  17:03             7ÿ688 v6.9.5.md
+27.05.2021  17:03            43ÿ959 v7.0.0.md
+27.05.2021  17:03            28ÿ982 v7.1.0.md
+27.05.2021  17:03            40ÿ884 v7.10.0.md
+27.05.2021  17:03             8ÿ058 v7.10.1.md
+27.05.2021  17:03            26ÿ114 v7.2.0.md
+27.05.2021  17:03            42ÿ519 v7.2.1.md
+27.05.2021  17:03            31ÿ060 v7.3.0.md
+27.05.2021  17:03            33ÿ379 v7.4.0.md
+27.05.2021  17:03            61ÿ126 v7.5.0.md
+27.05.2021  17:03            29ÿ633 v7.6.0.md
+27.05.2021  17:03            36ÿ377 v7.7.0.md
+27.05.2021  17:03             8ÿ238 v7.7.1.md
+27.05.2021  17:03            15ÿ618 v7.7.2.md
+27.05.2021  17:03            12ÿ194 v7.7.3.md
+27.05.2021  17:03            15ÿ394 v7.7.4.md
+27.05.2021  17:03            18ÿ982 v7.8.0.md
+27.05.2021  17:03            16ÿ604 v7.9.0.md
+27.05.2021  17:03           172ÿ167 v8.0.0.md
+27.05.2021  17:03            28ÿ930 v8.1.0.md
+27.05.2021  17:03            15ÿ876 v8.1.1.md
+27.05.2021  17:03             6ÿ427 v8.1.2.md
+27.05.2021  17:03            17ÿ971 v8.1.3.md
+27.05.2021  17:03             7ÿ945 v8.1.4.md
+27.05.2021  17:03            60ÿ247 v8.10.0.md
+27.05.2021  17:03             9ÿ743 v8.11.0.md
+27.05.2021  17:03             6ÿ735 v8.11.1.md
+27.05.2021  17:03            46ÿ259 v8.11.2.md
+27.05.2021  17:03             8ÿ414 v8.11.3.md
+27.05.2021  17:03             8ÿ458 v8.11.4.md
+27.05.2021  17:03            60ÿ627 v8.12.0.md
+27.05.2021  17:03            30ÿ370 v8.13.0.md
+27.05.2021  17:03            10ÿ754 v8.14.0.md
+27.05.2021  17:03            22ÿ387 v8.14.1.md
+27.05.2021  17:03             7ÿ414 v8.15.0.md
+27.05.2021  17:03             8ÿ439 v8.15.1.md
+27.05.2021  17:03            12ÿ401 v8.16.0.md
+27.05.2021  17:03            12ÿ377 v8.16.1.md
+27.05.2021  17:03            10ÿ610 v8.16.2.md
+27.05.2021  17:03             6ÿ465 v8.17.0.md
+27.05.2021  17:03            53ÿ968 v8.2.0.md
+27.05.2021  17:03             7ÿ380 v8.2.1.md
+27.05.2021  17:03            36ÿ790 v8.3.0.md
+27.05.2021  17:03            25ÿ789 v8.4.0.md
+27.05.2021  17:03            50ÿ761 v8.5.0.md
+27.05.2021  17:03            33ÿ301 v8.6.0.md
+27.05.2021  17:03            45ÿ546 v8.7.0.md
+27.05.2021  17:03            60ÿ954 v8.8.0.md
+27.05.2021  17:03             9ÿ009 v8.8.1.md
+27.05.2021  17:03            25ÿ698 v8.9.0.md
+27.05.2021  17:03             9ÿ357 v8.9.1.md
+27.05.2021  17:03            26ÿ760 v8.9.2.md
+27.05.2021  17:03             9ÿ890 v8.9.3.md
+27.05.2021  17:03            59ÿ452 v8.9.4.md
+27.05.2021  17:03            60ÿ778 v9.0.0.md
+27.05.2021  17:03            25ÿ266 v9.1.0.md
+27.05.2021  17:03            23ÿ877 v9.10.0.md
+27.05.2021  17:03             6ÿ739 v9.10.1.md
+27.05.2021  17:03            21ÿ375 v9.11.0.md
+27.05.2021  17:03             6ÿ246 v9.11.1.md
+27.05.2021  17:03             8ÿ975 v9.11.2.md
+27.05.2021  17:03            32ÿ240 v9.2.0.md
+27.05.2021  17:03             9ÿ065 v9.2.1.md
+27.05.2021  17:03            77ÿ899 v9.3.0.md
+27.05.2021  17:03            51ÿ684 v9.4.0.md
+27.05.2021  17:03            36ÿ836 v9.5.0.md
+27.05.2021  17:03            45ÿ565 v9.6.0.md
+27.05.2021  17:03             6ÿ595 v9.6.1.md
+27.05.2021  17:03            19ÿ169 v9.7.0.md
+27.05.2021  17:03             6ÿ078 v9.7.1.md
+27.05.2021  17:03            20ÿ320 v9.8.0.md
+27.05.2021  17:03            31ÿ917 v9.9.0.md
+             486 File(s)      8ÿ430ÿ664 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\uncategorized
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03           847ÿ647 10-lts-to-12-lts.md
+27.05.2021  17:03             2ÿ253 an-easy-way-to-build-scalable-network-programs.md
+27.05.2021  17:03               677 bnoordhuis-departure.md
+27.05.2021  17:03             2ÿ031 development-environment.md
+27.05.2021  17:03             1ÿ941 evolving-the-node-js-brand.md
+27.05.2021  17:03             1ÿ565 growing-up.md
+27.05.2021  17:03                94 index.md
+27.05.2021  17:03               541 jobs-nodejs-org.md
+27.05.2021  17:03            12ÿ443 ldapjs-a-reprise-of-ldap.md
+27.05.2021  17:03             3ÿ216 libuv-status-report.md
+27.05.2021  17:03             3ÿ261 node-interactive-convince-boss.md
+27.05.2021  17:03               413 node-meetup-this-thursday.md
+27.05.2021  17:03               504 node-office-hours-cut-short.md
+27.05.2021  17:03             5ÿ604 notes-from-the-road.md
+27.05.2021  17:03               916 office-hours.md
+27.05.2021  17:03             1ÿ005 porting-node-to-windows-with-microsofts-help.md
+27.05.2021  17:03             4ÿ771 profiling-node-js.md
+27.05.2021  17:03             1ÿ525 some-new-node-projects.md
+27.05.2021  17:03               329 the-videos-from-node-meetup.md
+27.05.2021  17:03             2ÿ786 tj-fontaine-new-node-lead.md
+27.05.2021  17:03             2ÿ096 trademark.md
+27.05.2021  17:03               925 version-0-6.md
+              22 File(s)        896ÿ543 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\video
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               457 bert-belder-libuv-lxjs-2012.md
+27.05.2021  17:03             1ÿ205 bryan-cantrill-instrumenting-the-real-time-web.md
+27.05.2021  17:03                87 index.md
+27.05.2021  17:03               758 welcome-to-the-node-blog.md
+               4 File(s)          2ÿ507 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\vulnerability
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ691 april-2020-openssl-updates.md
+27.05.2021  17:03             4ÿ564 aug-2019-security-releases.md
+27.05.2021  17:03             8ÿ241 august-2018-security-releases.md
+27.05.2021  17:03             8ÿ410 cve-2015-8027_cve-2015-6764.md
+27.05.2021  17:03             6ÿ514 december-2015-security-releases.md
+27.05.2021  17:03             4ÿ808 december-2015-security-release-update.md
+27.05.2021  17:03             4ÿ702 december-2017-security-releases.md
+27.05.2021  17:03             4ÿ694 december-2019-security-releases.md
+27.05.2021  17:03             6ÿ863 february-2016-security-releases.md
+27.05.2021  17:03             9ÿ209 february-2019-security-releases.md
+27.05.2021  17:03             3ÿ100 february-2020-security-releases.md
+27.05.2021  17:03             1ÿ661 http-server-pipeline-flood-dos.md
+27.05.2021  17:03             4ÿ185 http-server-security-vulnerability-please-upgrade-to-0-6-17.md
+27.05.2021  17:03                96 index.md
+27.05.2021  17:03             1ÿ877 jan-2018-spectre-meltdown.md
+27.05.2021  17:03             5ÿ539 july-2017-security-releases.md
+27.05.2021  17:03             9ÿ384 june-2016-security-releases.md
+27.05.2021  17:03             6ÿ158 june-2018-security-releases.md
+27.05.2021  17:03             4ÿ426 june-2020-security-releases.md
+27.05.2021  17:03            12ÿ260 march-2018-security-releases.md
+27.05.2021  17:03            11ÿ785 november-2018-security-releases.md
+27.05.2021  17:03             2ÿ106 november-2020-security-releases.md
+27.05.2021  17:03             3ÿ417 npm-tokens-leak-march-2016.md
+27.05.2021  17:03             3ÿ503 oct-2017-dos.md
+27.05.2021  17:03             4ÿ602 october-2016-security-releases.md
+27.05.2021  17:03             8ÿ901 openssl-and-low-severity-fixes-jan-2016.md
+27.05.2021  17:03             3ÿ777 openssl-and-utf8.md
+27.05.2021  17:03             3ÿ397 openssl-january-2017.md
+27.05.2021  17:03            12ÿ925 openssl-march-2016.md
+27.05.2021  17:03             6ÿ388 openssl-may-2016.md
+27.05.2021  17:03             7ÿ329 openssl-november-2017.md
+27.05.2021  17:03            14ÿ707 september-2016-security-releases.md
+27.05.2021  17:03             1ÿ566 september-2017-path-validation.md
+27.05.2021  17:03             1ÿ628 september-2019-openssl-no-updates.md
+27.05.2021  17:03             2ÿ165 september-2019-openssl-updates.md
+27.05.2021  17:03             3ÿ396 september-2020-security-releases.md
+27.05.2021  17:03             3ÿ278 v8-memory-corruption-stack-overflow.md
+              37 File(s)        204ÿ252 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\weekly-updates
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                95 index.md
+27.05.2021  17:03             2ÿ148 weekly-update.2015-02-06.md
+27.05.2021  17:03             6ÿ268 weekly-update.2015-02-13.md
+27.05.2021  17:03             4ÿ226 weekly-update.2015-02-20.md
+27.05.2021  17:03             7ÿ516 weekly-update.2015-02-27.md
+27.05.2021  17:03             5ÿ816 weekly-update.2015-03-06.md
+27.05.2021  17:03             4ÿ112 weekly-update.2015-03-13.md
+27.05.2021  17:03             4ÿ847 weekly-update.2015-03-20.md
+27.05.2021  17:03             3ÿ326 weekly-update.2015-03-27.md
+27.05.2021  17:03             4ÿ044 weekly-update.2015-04-03.md
+27.05.2021  17:03             2ÿ950 weekly-update.2015-04-10.md
+27.05.2021  17:03             4ÿ206 weekly-update.2015-04-17.md
+27.05.2021  17:03             3ÿ383 weekly-update.2015-04-24.md
+27.05.2021  17:03             2ÿ360 weekly-update.2015-05-01.md
+27.05.2021  17:03             8ÿ445 weekly-update.2015-05-08.md
+27.05.2021  17:03             2ÿ094 weekly-update.2015-05-15.md
+27.05.2021  17:03             6ÿ052 weekly-update.2015-05-22.md
+27.05.2021  17:03             4ÿ088 weekly-update.2015-05-29.md
+27.05.2021  17:03             1ÿ318 weekly-update.2015-06-05.md
+27.05.2021  17:03             4ÿ503 weekly-update.2015-06-12.md
+27.05.2021  17:03             5ÿ080 weekly-update.2015-06-19.md
+27.05.2021  17:03             3ÿ723 weekly-update.2015-06-26.md
+27.05.2021  17:03             4ÿ253 weekly-update.2015-07-03.md
+27.05.2021  17:03             3ÿ079 weekly-update.2015-07-10.md
+27.05.2021  17:03             3ÿ392 weekly-update.2015-07-17.md
+27.05.2021  17:03             1ÿ231 weekly-update.2015-07-24.md
+27.05.2021  17:03             3ÿ445 weekly-update.2015-07-31.md
+27.05.2021  17:03            10ÿ506 weekly-update.2015-08-07.md
+27.05.2021  17:03             4ÿ654 weekly-update.2015-08-14.md
+27.05.2021  17:03             5ÿ041 weekly-update.2015-08-21.md
+27.05.2021  17:03             7ÿ025 weekly-update.2015-08-28.md
+27.05.2021  17:03             6ÿ859 weekly-update.2015-09-04.md
+27.05.2021  17:03             6ÿ703 weekly-update.2015-09-11.md
+27.05.2021  17:03             4ÿ316 weekly-update.2015-09-18.md
+27.05.2021  17:03             5ÿ499 weekly-update.2015-10-02.md
+27.05.2021  17:03             4ÿ278 weekly-update.2015-10-09.md
+27.05.2021  17:03             3ÿ572 weekly-update.2015-10-16.md
+27.05.2021  17:03             4ÿ230 weekly-update.2015-10-23.md
+27.05.2021  17:03             3ÿ960 weekly-update.2015-10-30.md
+27.05.2021  17:03             3ÿ112 weekly-update.2015-11-06.md
+27.05.2021  17:03             2ÿ808 weekly-update.2015-11-13.md
+27.05.2021  17:03             3ÿ529 weekly-update.2015-11-20.md
+27.05.2021  17:03             3ÿ213 weekly-update.2015-11-27.md
+27.05.2021  17:03             2ÿ218 weekly-update.2015-12-04.md
+27.05.2021  17:03             5ÿ918 weekly-update.2015-12-11.md
+27.05.2021  17:03             2ÿ090 weekly-update.2016-01-01.md
+27.05.2021  17:03             2ÿ903 weekly-update.2016-01-11.md
+27.05.2021  17:03             5ÿ582 weekly-update.2016-01-18.md
+27.05.2021  17:03             4ÿ290 weekly-update.2016-01-22.md
+27.05.2021  17:03             5ÿ417 weekly-update.2016-01-29.md
+27.05.2021  17:03             1ÿ269 weekly-update.2016-02-08.md
+27.05.2021  17:03             2ÿ158 weekly-update.2016-02-15.md
+27.05.2021  17:03             1ÿ546 weekly-update.2016-02-22.md
+27.05.2021  17:03             2ÿ495 weekly-update.2016-03-01.md
+27.05.2021  17:03             2ÿ366 weekly-update.2016-03-07.md
+27.05.2021  17:03             2ÿ873 weekly-update.2016-03-14.md
+27.05.2021  17:03             2ÿ329 weekly-update.2016-04-17.md
+27.05.2021  17:03             1ÿ624 weekly-update.2016-04-23.md
+27.05.2021  17:03             3ÿ397 weekly-update.2016-04-29.md
+27.05.2021  17:03             2ÿ022 weekly-update.2016-05-30.md
+27.05.2021  17:03             2ÿ026 weekly-update.2016-06-16.md
+27.05.2021  17:03             2ÿ009 weekly-update.2016-06-26.md
+27.05.2021  17:03             1ÿ931 weekly-update.2016-07-08.md
+27.05.2021  17:03             1ÿ755 weekly-update.2016-07-16.md
+27.05.2021  17:03             1ÿ860 weekly-update.2016-07-22.md
+27.05.2021  17:03             1ÿ972 weekly-update.2016-08-15.md
+27.05.2021  17:03             2ÿ047 weekly-update.2016-10-28.md
+27.05.2021  17:03             1ÿ928 weekly-update.2016-11-04.md
+27.05.2021  17:03             3ÿ812 weekly-update.2016-11-11.md
+27.05.2021  17:03             2ÿ969 weekly-update.2016-11-24.md
+27.05.2021  17:03             3ÿ589 weekly-update.2016-12-02.md
+27.05.2021  17:03             2ÿ743 weekly-update.2016-12-25.md
+27.05.2021  17:03             1ÿ931 weekly-update.2017-02-10.md
+              73 File(s)        266ÿ374 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\blog\wg
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ371 diag-wg-update-2017-02.md
+               1 File(s)          4ÿ371 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ881 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             1ÿ975 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          4ÿ856 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ240 abi-stability.md
+27.05.2021  17:03            15ÿ533 anatomy-of-an-http-transaction.md
+27.05.2021  17:03            26ÿ514 backpressuring-in-streams.md
+27.05.2021  17:03             5ÿ062 blocking-vs-non-blocking.md
+27.05.2021  17:03            13ÿ481 buffer-constructor-deprecation.md
+27.05.2021  17:03             9ÿ540 debugging-getting-started.md
+27.05.2021  17:03             6ÿ319 diagnostics-flamegraph.md
+27.05.2021  17:03            15ÿ735 domain-postmortem.md
+27.05.2021  17:03            31ÿ828 dont-block-the-event-loop.md
+27.05.2021  17:03            18ÿ325 event-loop-timers-and-nexttick.md
+27.05.2021  17:03               846 getting-started-guide.md
+27.05.2021  17:03             1ÿ547 index.md
+27.05.2021  17:03             7ÿ607 nodejs-docker-webapp.md
+27.05.2021  17:03             2ÿ289 publishing-napi-modules.md
+27.05.2021  17:03            10ÿ460 simple-profiling.md
+27.05.2021  17:03             7ÿ545 timers-in-node.md
+27.05.2021  17:03            12ÿ296 working-with-different-filesystems.md
+              17 File(s)        192ÿ167 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ277 dependencies.md
+               1 File(s)          3ÿ277 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ305 current.md
+27.05.2021  17:03             1ÿ293 index.md
+27.05.2021  17:03             8ÿ275 package-manager.md
+27.05.2021  17:03             1ÿ151 releases.md
+               4 File(s)         12ÿ024 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ623 code-and-learn.md
+27.05.2021  17:03             1ÿ285 collab-summit.md
+27.05.2021  17:03             3ÿ428 contribute.md
+27.05.2021  17:03             2ÿ459 index.md
+27.05.2021  17:03            21ÿ094 node-meetups.md
+               5 File(s)         29ÿ889 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          advanced
+27.05.2021  17:03    <DIR>          command-line
+27.05.2021  17:03    <DIR>          cryptography
+27.05.2021  17:03    <DIR>          errors
+27.05.2021  17:03    <DIR>          file-system
+27.05.2021  17:03    <DIR>          getting-started
+27.05.2021  17:03    <DIR>          HTTP
+27.05.2021  17:03    <DIR>          child-processes
+27.05.2021  17:03                81 index.md
+27.05.2021  17:03    <DIR>          javascript-conventions
+27.05.2021  17:03    <DIR>          REPL
+               1 File(s)             81 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\advanced
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          buffers
+27.05.2021  17:03    <DIR>          streams
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\advanced\buffers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ841 how-to-use-buffers.md
+               1 File(s)          6ÿ841 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\advanced\streams
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ365 how-to-use-fs-create-read-stream.md
+27.05.2021  17:03             1ÿ282 how-to-use-fs-create-write-stream.md
+27.05.2021  17:03             3ÿ656 how-to-use-stream-pipe.md
+27.05.2021  17:03             2ÿ394 what-are-streams.md
+               4 File(s)          8ÿ697 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\child-processes
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ019 how-to-spawn-a-child-process.md
+               1 File(s)          4ÿ019 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\command-line
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ255 how-to-get-colors-on-the-command-line.md
+27.05.2021  17:03             5ÿ150 how-to-parse-command-line-arguments.md
+27.05.2021  17:03             4ÿ234 how-to-prompt-for-command-line-input.md
+               3 File(s)         14ÿ639 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\cryptography
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             9ÿ645 how-to-use-crypto-module.md
+27.05.2021  17:03             8ÿ025 how-to-use-the-tls-module.md
+               2 File(s)         17ÿ670 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\errors
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ097 what-are-the-error-conventions.md
+27.05.2021  17:03             1ÿ540 what-is-the-error-object.md
+27.05.2021  17:03             2ÿ180 what-is-try-catch.md
+               3 File(s)          5ÿ817 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\file-system
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ222 how-to-read-files-in-nodejs.md
+27.05.2021  17:03             1ÿ626 how-to-search-files-and-directories-in-nodejs.md
+27.05.2021  17:03             3ÿ539 how-to-store-local-config-data.md
+27.05.2021  17:03             3ÿ040 how-to-use-the-path-module.md
+27.05.2021  17:03             1ÿ699 how-to-write-files-in-nodejs.md
+27.05.2021  17:03    <DIR>          security
+               5 File(s)         12ÿ126 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\file-system\security
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ133 introduction.md
+               1 File(s)          3ÿ133 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\getting-started
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          control-flow
+27.05.2021  17:03             2ÿ167 globals-in-node-js.md
+27.05.2021  17:03             4ÿ988 how-to-debug-nodejs-applications.md
+27.05.2021  17:03             2ÿ792 how-to-use-util-inspect.md
+27.05.2021  17:03    <DIR>          npm
+27.05.2021  17:03             3ÿ368 the-console-module.md
+27.05.2021  17:03             5ÿ788 the-process-module.md
+27.05.2021  17:03             3ÿ237 what-is-node-core-verus-userland.md
+27.05.2021  17:03             2ÿ827 what-is-require.md
+               7 File(s)         25ÿ167 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\getting-started\control-flow
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ631 how-to-write-asynchronous-code.md
+27.05.2021  17:03             2ÿ968 what-are-callbacks.md
+27.05.2021  17:03             4ÿ008 what-are-event-emitters.md
+               3 File(s)         10ÿ607 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\getting-started\npm
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ050 how-to-access-module-package-info.md
+27.05.2021  17:03             2ÿ387 what-is-npm.md
+27.05.2021  17:03             3ÿ376 what-is-the-file-package-json.md
+               3 File(s)          6ÿ813 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\HTTP
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          clients
+27.05.2021  17:03    <DIR>          servers
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\HTTP\clients
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ713 how-to-access-query-string-parameters.md
+27.05.2021  17:03             2ÿ798 how-to-create-a-HTTP-request.md
+               2 File(s)          5ÿ511 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\HTTP\servers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ084 how-to-create-a-HTTP-server.md
+27.05.2021  17:03             2ÿ569 how-to-create-a-HTTPS-server.md
+27.05.2021  17:03             2ÿ504 how-to-handle-multipart-form-data.md
+27.05.2021  17:03             2ÿ794 how-to-read-POST-data.md
+27.05.2021  17:03             2ÿ524 how-to-serve-static-files.md
+               5 File(s)         12ÿ475 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\javascript-conventions
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ824 how-to-create-default-parameters-for-functions.md
+27.05.2021  17:03             5ÿ881 using-ECMA5-in-nodejs.md
+27.05.2021  17:03             3ÿ975 what-are-the-built-in-timer-functions.md
+27.05.2021  17:03             4ÿ645 what-is-json.md
+27.05.2021  17:03             3ÿ126 what-is-the-arguments-object.md
+               5 File(s)         21ÿ451 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\en\knowledge\REPL
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ130 how-to-create-a-custom-repl.md
+27.05.2021  17:03             3ÿ987 how-to-use-nodejs-repl.md
+               2 File(s)          7ÿ117 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               134 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               674 index.md
+27.05.2021  17:03    <DIR>          knowledge
+27.05.2021  17:03             3ÿ349 security.md
+27.05.2021  17:03             3ÿ795 site.json
+               4 File(s)          7ÿ952 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ946 community.md
+27.05.2021  17:03             1ÿ525 governance.md
+27.05.2021  17:03             3ÿ480 index.md
+27.05.2021  17:03            18ÿ711 privacy.md
+27.05.2021  17:03             1ÿ041 releases.md
+27.05.2021  17:03             1ÿ613 resources.md
+27.05.2021  17:03             1ÿ588 trademark.md
+27.05.2021  17:03            12ÿ101 working-groups.md
+               8 File(s)         46ÿ005 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ361 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             2ÿ152 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          5ÿ513 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ035 abi-stability.md
+27.05.2021  17:03            13ÿ964 anatomy-of-an-http-transaction.md
+27.05.2021  17:03            24ÿ353 backpressuring-in-streams.md
+27.05.2021  17:03             5ÿ060 blocking-vs-non-blocking.md
+27.05.2021  17:03            13ÿ437 buffer-constructor-deprecation.md
+27.05.2021  17:03             9ÿ493 debugging-getting-started.md
+27.05.2021  17:03             6ÿ319 diagnostics-flamegraph.md
+27.05.2021  17:03            15ÿ733 domain-postmortem.md
+27.05.2021  17:03            31ÿ820 dont-block-the-event-loop.md
+27.05.2021  17:03            18ÿ291 event-loop-timers-and-nexttick.md
+27.05.2021  17:03               862 getting-started-guide.md
+27.05.2021  17:03             1ÿ407 index.md
+27.05.2021  17:03             7ÿ607 nodejs-docker-webapp.md
+27.05.2021  17:03             2ÿ307 publishing-napi-modules.md
+27.05.2021  17:03            10ÿ395 simple-profiling.md
+27.05.2021  17:03             7ÿ545 timers-in-node.md
+27.05.2021  17:03            12ÿ296 working-with-different-filesystems.md
+              17 File(s)        187ÿ924 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ277 dependencies.md
+               1 File(s)          3ÿ277 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ316 current.md
+27.05.2021  17:03             1ÿ307 index.md
+27.05.2021  17:03             7ÿ070 package-manager.md
+27.05.2021  17:03             1ÿ444 releases.md
+               4 File(s)         11ÿ137 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ799 code-and-learn.md
+27.05.2021  17:03             1ÿ397 collab-summit.md
+27.05.2021  17:03             3ÿ503 contribute.md
+27.05.2021  17:03             2ÿ449 index.md
+27.05.2021  17:03            20ÿ688 node-meetups.md
+               5 File(s)         29ÿ836 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\knowledge
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          HTTP
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\knowledge\HTTP
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          clients
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\es\knowledge\HTTP\clients
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ713 how-to-access-query-string-parameters.md
+               1 File(s)          2ÿ713 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fa
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               182 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03               916 index.md
+27.05.2021  17:03             5ÿ636 security.md
+27.05.2021  17:03             3ÿ930 site.json
+               4 File(s)         10ÿ664 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fa\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ599 index.md
+               1 File(s)          4ÿ599 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fa\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ284 releases.md
+               1 File(s)          1ÿ284 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               129 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               714 index.md
+27.05.2021  17:03    <DIR>          knowledge
+27.05.2021  17:03             4ÿ143 security.md
+27.05.2021  17:03             3ÿ797 site.json
+               4 File(s)          8ÿ783 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ330 community.md
+27.05.2021  17:03             1ÿ274 governance.md
+27.05.2021  17:03             3ÿ349 index.md
+27.05.2021  17:03            16ÿ665 privacy.md
+27.05.2021  17:03               886 releases.md
+27.05.2021  17:03             1ÿ583 resources.md
+27.05.2021  17:03             1ÿ424 trademark.md
+27.05.2021  17:03            10ÿ970 working-groups.md
+               8 File(s)         41ÿ481 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ881 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             1ÿ957 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          4ÿ838 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            13ÿ964 anatomy-of-an-http-transaction.md
+27.05.2021  17:03            24ÿ353 backpressuring-in-streams.md
+27.05.2021  17:03             5ÿ060 blocking-vs-non-blocking.md
+27.05.2021  17:03            13ÿ437 buffer-constructor-deprecation.md
+27.05.2021  17:03             9ÿ493 debugging-getting-started.md
+27.05.2021  17:03             6ÿ319 diagnostics-flamegraph.md
+27.05.2021  17:03            15ÿ733 domain-postmortem.md
+27.05.2021  17:03               886 getting-started-guide.md
+27.05.2021  17:03             1ÿ407 index.md
+27.05.2021  17:03             7ÿ607 nodejs-docker-webapp.md
+27.05.2021  17:03             2ÿ307 publishing-napi-modules.md
+27.05.2021  17:03            10ÿ395 simple-profiling.md
+27.05.2021  17:03             7ÿ545 timers-in-node.md
+27.05.2021  17:03            12ÿ296 working-with-different-filesystems.md
+              14 File(s)        130ÿ802 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ277 dependencies.md
+               1 File(s)          3ÿ277 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ468 current.md
+27.05.2021  17:03             1ÿ455 index.md
+27.05.2021  17:03             6ÿ668 package-manager.md
+27.05.2021  17:03             1ÿ151 releases.md
+               4 File(s)         10ÿ742 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ623 code-and-learn.md
+27.05.2021  17:03             1ÿ285 collab-summit.md
+27.05.2021  17:03             3ÿ410 contribute.md
+27.05.2021  17:03             2ÿ272 index.md
+27.05.2021  17:03            20ÿ688 node-meetups.md
+               5 File(s)         29ÿ278 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          advanced
+27.05.2021  17:03    <DIR>          command-line
+27.05.2021  17:03    <DIR>          cryptography
+27.05.2021  17:03    <DIR>          errors
+27.05.2021  17:03    <DIR>          file-system
+27.05.2021  17:03    <DIR>          getting-started
+27.05.2021  17:03    <DIR>          HTTP
+27.05.2021  17:03    <DIR>          child-processes
+27.05.2021  17:03                81 index.md
+27.05.2021  17:03    <DIR>          javascript-conventions
+27.05.2021  17:03    <DIR>          REPL
+               1 File(s)             81 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\advanced
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          buffers
+27.05.2021  17:03    <DIR>          streams
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\advanced\buffers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ841 how-to-use-buffers.md
+               1 File(s)          6ÿ841 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\advanced\streams
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ365 how-to-use-fs-create-read-stream.md
+27.05.2021  17:03             1ÿ282 how-to-use-fs-create-write-stream.md
+27.05.2021  17:03             3ÿ656 how-to-use-stream-pipe.md
+27.05.2021  17:03             2ÿ394 what-are-streams.md
+               4 File(s)          8ÿ697 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\child-processes
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ019 how-to-spawn-a-child-process.md
+               1 File(s)          4ÿ019 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\command-line
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ255 how-to-get-colors-on-the-command-line.md
+27.05.2021  17:03             5ÿ137 how-to-parse-command-line-arguments.md
+27.05.2021  17:03             4ÿ234 how-to-prompt-for-command-line-input.md
+               3 File(s)         14ÿ626 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\cryptography
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             8ÿ025 how-to-use-the-tls-module.md
+               1 File(s)          8ÿ025 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\errors
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ083 what-are-the-error-conventions.md
+27.05.2021  17:03             1ÿ540 what-is-the-error-object.md
+27.05.2021  17:03             2ÿ180 what-is-try-catch.md
+               3 File(s)          5ÿ803 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\file-system
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ222 how-to-read-files-in-nodejs.md
+27.05.2021  17:03             1ÿ626 how-to-search-files-and-directories-in-nodejs.md
+27.05.2021  17:03             3ÿ539 how-to-store-local-config-data.md
+27.05.2021  17:03             3ÿ040 how-to-use-the-path-module.md
+27.05.2021  17:03             1ÿ699 how-to-write-files-in-nodejs.md
+27.05.2021  17:03    <DIR>          security
+               5 File(s)         12ÿ126 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\file-system\security
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ128 introduction.md
+               1 File(s)          3ÿ128 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\getting-started
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          control-flow
+27.05.2021  17:03             2ÿ167 globals-in-node-js.md
+27.05.2021  17:03             4ÿ988 how-to-debug-nodejs-applications.md
+27.05.2021  17:03             2ÿ792 how-to-use-util-inspect.md
+27.05.2021  17:03    <DIR>          npm
+27.05.2021  17:03             3ÿ368 the-console-module.md
+27.05.2021  17:03             5ÿ788 the-process-module.md
+27.05.2021  17:03             3ÿ237 what-is-node-core-verus-userland.md
+27.05.2021  17:03             2ÿ827 what-is-require.md
+               7 File(s)         25ÿ167 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\getting-started\control-flow
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ631 how-to-write-asynchronous-code.md
+27.05.2021  17:03             2ÿ968 what-are-callbacks.md
+27.05.2021  17:03             4ÿ008 what-are-event-emitters.md
+               3 File(s)         10ÿ607 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\getting-started\npm
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ050 how-to-access-module-package-info.md
+27.05.2021  17:03             2ÿ387 what-is-npm.md
+27.05.2021  17:03             3ÿ376 what-is-the-file-package-json.md
+               3 File(s)          6ÿ813 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\HTTP
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          clients
+27.05.2021  17:03    <DIR>          servers
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\HTTP\clients
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ713 how-to-access-query-string-parameters.md
+27.05.2021  17:03             2ÿ798 how-to-create-a-HTTP-request.md
+               2 File(s)          5ÿ511 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\HTTP\servers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ084 how-to-create-a-HTTP-server.md
+27.05.2021  17:03             2ÿ569 how-to-create-a-HTTPS-server.md
+27.05.2021  17:03             2ÿ504 how-to-handle-multipart-form-data.md
+27.05.2021  17:03             2ÿ794 how-to-read-POST-data.md
+27.05.2021  17:03             2ÿ515 how-to-serve-static-files.md
+               5 File(s)         12ÿ466 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\javascript-conventions
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ824 how-to-create-default-parameters-for-functions.md
+27.05.2021  17:03             5ÿ881 using-ECMA5-in-nodejs.md
+27.05.2021  17:03             3ÿ975 what-are-the-built-in-timer-functions.md
+27.05.2021  17:03             4ÿ645 what-is-json.md
+27.05.2021  17:03             3ÿ126 what-is-the-arguments-object.md
+               5 File(s)         21ÿ451 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\fr\knowledge\REPL
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ130 how-to-create-a-custom-repl.md
+27.05.2021  17:03             3ÿ969 how-to-use-nodejs-repl.md
+               2 File(s)          7ÿ099 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\gl
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               130 404.md
+27.05.2021  17:03               637 index.md
+27.05.2021  17:03             3ÿ333 security.md
+27.05.2021  17:03             3ÿ149 site.json
+               4 File(s)          7ÿ249 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\it
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               154 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               613 index.md
+27.05.2021  17:03             4ÿ108 security.md
+27.05.2021  17:03             2ÿ922 site.json
+               4 File(s)          7ÿ797 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\it\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ095 community.md
+27.05.2021  17:03             3ÿ229 index.md
+27.05.2021  17:03             1ÿ573 resources.md
+               3 File(s)         10ÿ897 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\it\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ393 collab-summit.md
+27.05.2021  17:03             2ÿ356 index.md
+               2 File(s)          3ÿ749 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               164 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               690 index.md
+27.05.2021  17:03             7ÿ880 security.md
+27.05.2021  17:03             3ÿ358 site.json
+               4 File(s)         12ÿ092 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ112 index.md
+               1 File(s)          6ÿ112 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ743 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             3ÿ519 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)         10ÿ262 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            11ÿ586 blocking-vs-non-blocking.md
+27.05.2021  17:03            20ÿ750 buffer-constructor-deprecation.md
+27.05.2021  17:03            21ÿ524 debugging-getting-started.md
+27.05.2021  17:03            15ÿ130 diagnostics-flamegraph.md
+27.05.2021  17:03             1ÿ187 getting-started-guide.md
+27.05.2021  17:03             2ÿ926 index.md
+27.05.2021  17:03            17ÿ112 nodejs-docker-webapp.md
+27.05.2021  17:03            18ÿ426 simple-profiling.md
+27.05.2021  17:03            17ÿ346 timers-in-node.md
+               9 File(s)        125ÿ987 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ897 dependencies.md
+               1 File(s)          7ÿ897 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ564 current.md
+27.05.2021  17:03             1ÿ556 index.md
+27.05.2021  17:03             9ÿ435 package-manager.md
+27.05.2021  17:03             1ÿ340 releases.md
+               4 File(s)         13ÿ895 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ja\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ902 code-and-learn.md
+27.05.2021  17:03             3ÿ121 collab-summit.md
+27.05.2021  17:03             7ÿ946 contribute.md
+27.05.2021  17:03             4ÿ995 index.md
+               4 File(s)         17ÿ964 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               155 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               640 index.md
+27.05.2021  17:03             7ÿ197 security.md
+27.05.2021  17:03             3ÿ710 site.json
+               4 File(s)         11ÿ702 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            12ÿ079 governance.md
+27.05.2021  17:03             6ÿ195 index.md
+27.05.2021  17:03               400 releases.md
+27.05.2021  17:03             3ÿ167 resources.md
+27.05.2021  17:03             2ÿ867 trademark.md
+27.05.2021  17:03            20ÿ416 working-groups.md
+               6 File(s)         45ÿ124 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ144 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             3ÿ108 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          9ÿ252 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            32ÿ838 anatomy-of-an-http-transaction.md
+27.05.2021  17:03            10ÿ643 blocking-vs-non-blocking.md
+27.05.2021  17:03            20ÿ301 debugging-getting-started.md
+27.05.2021  17:03            33ÿ281 domain-postmortem.md
+27.05.2021  17:03            38ÿ705 event-loop-timers-and-nexttick.md
+27.05.2021  17:03             1ÿ148 getting-started-guide.md
+27.05.2021  17:03             1ÿ390 index.md
+27.05.2021  17:03            15ÿ890 nodejs-docker-webapp.md
+27.05.2021  17:03            21ÿ720 simple-profiling.md
+27.05.2021  17:03            15ÿ632 timers-in-node.md
+27.05.2021  17:03            27ÿ212 working-with-different-filesystems.md
+              11 File(s)        218ÿ760 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ002 dependencies.md
+               1 File(s)          7ÿ002 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ352 current.md
+27.05.2021  17:03             1ÿ341 index.md
+27.05.2021  17:03            14ÿ661 package-manager.md
+27.05.2021  17:03             1ÿ425 releases.md
+               4 File(s)         18ÿ779 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ko\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ533 index.md
+               1 File(s)          4ÿ533 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               137 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          blog
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               635 index.md
+27.05.2021  17:03    <DIR>          knowledge
+27.05.2021  17:03             4ÿ295 security.md
+27.05.2021  17:03             3ÿ602 site.json
+               4 File(s)          8ÿ669 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ600 governance.md
+27.05.2021  17:03             5ÿ372 index.md
+27.05.2021  17:03             1ÿ499 releases.md
+27.05.2021  17:03             1ÿ664 resources.md
+27.05.2021  17:03             1ÿ559 trademark.md
+               5 File(s)         12ÿ694 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\blog
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          announcements
+27.05.2021  17:03    <DIR>          community
+27.05.2021  17:03    <DIR>          uncategorized
+27.05.2021  17:03    <DIR>          video
+27.05.2021  17:03    <DIR>          vulnerability
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\blog\announcements
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ310 welcome-google.md
+               1 File(s)          2ÿ310 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\blog\community
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ239 transitions.md
+               1 File(s)          2ÿ239 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\blog\uncategorized
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ523 an-easy-way-to-build-scalable-network-programs.md
+27.05.2021  17:03               739 bnoordhuis-departure.md
+27.05.2021  17:03             2ÿ188 development-environment.md
+27.05.2021  17:03             2ÿ028 evolving-the-node-js-brand.md
+               4 File(s)          7ÿ478 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\blog\video
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               480 bert-belder-libuv-lxjs-2012.md
+27.05.2021  17:03             1ÿ203 bryan-cantrill-instrumenting-the-real-time-web.md
+27.05.2021  17:03                88 index.md
+27.05.2021  17:03               815 welcome-to-the-node-blog.md
+               4 File(s)          2ÿ586 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\blog\vulnerability
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ350 september-2019-openssl-updates.md
+27.05.2021  17:03             3ÿ479 v8-memory-corruption-stack-overflow.md
+               2 File(s)          5ÿ829 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ366 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             2ÿ148 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          5ÿ514 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            13ÿ181 abi-stability.md
+27.05.2021  17:03             9ÿ747 blocking-vs-non-blocking.md
+27.05.2021  17:03            15ÿ352 debugging-getting-started.md
+27.05.2021  17:03            11ÿ886 diagnostics-flamegraph.md
+27.05.2021  17:03            34ÿ478 dont-block-the-event-loop.md
+               5 File(s)         84ÿ644 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ828 dependencies.md
+               1 File(s)          6ÿ828 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ397 current.md
+27.05.2021  17:03             1ÿ389 index.md
+27.05.2021  17:03             6ÿ397 package-manager.md
+27.05.2021  17:03             1ÿ194 releases.md
+               4 File(s)         10ÿ377 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ522 code-and-learn.md
+27.05.2021  17:03             1ÿ445 collab-summit.md
+27.05.2021  17:03             4ÿ097 contribute.md
+27.05.2021  17:03             2ÿ304 index.md
+27.05.2021  17:03            21ÿ744 node-meetups.md
+               5 File(s)         31ÿ112 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          advanced
+27.05.2021  17:03    <DIR>          command-line
+27.05.2021  17:03    <DIR>          errors
+27.05.2021  17:03    <DIR>          file-system
+27.05.2021  17:03    <DIR>          getting-started
+27.05.2021  17:03    <DIR>          HTTP
+27.05.2021  17:03                93 index.md
+27.05.2021  17:03    <DIR>          javascript-conventions
+27.05.2021  17:03    <DIR>          REPL
+               1 File(s)             93 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\advanced
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          streams
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\advanced\streams
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ279 how-to-use-fs-create-write-stream.md
+               1 File(s)          1ÿ279 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\command-line
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             9ÿ087 how-to-get-colors-on-the-command-line.md
+27.05.2021  17:03             9ÿ315 how-to-parse-command-line-arguments.md
+27.05.2021  17:03             7ÿ203 how-to-prompt-for-command-line-input.md
+               3 File(s)         25ÿ605 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\errors
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ467 what-are-the-error-conventions.md
+27.05.2021  17:03             2ÿ376 what-is-the-error-object.md
+27.05.2021  17:03             3ÿ756 what-is-try-catch.md
+               3 File(s)          9ÿ599 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\file-system
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ370 how-to-read-files-in-nodejs.md
+27.05.2021  17:03             1ÿ808 how-to-search-files-and-directories-in-nodejs.md
+27.05.2021  17:03             3ÿ837 how-to-store-local-config-data.md
+27.05.2021  17:03             3ÿ170 how-to-use-the-path-module.md
+27.05.2021  17:03             1ÿ816 how-to-write-files-in-nodejs.md
+27.05.2021  17:03    <DIR>          security
+               5 File(s)         13ÿ001 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\file-system\security
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ339 introduction.md
+               1 File(s)          3ÿ339 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\getting-started
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ964 how-to-use-util-inspect.md
+27.05.2021  17:03    <DIR>          npm
+27.05.2021  17:03             3ÿ819 the-console-module.md
+27.05.2021  17:03             6ÿ385 the-process-module.md
+27.05.2021  17:03             3ÿ721 what-is-node-core-verus-userland.md
+27.05.2021  17:03             3ÿ004 what-is-require.md
+               5 File(s)         19ÿ893 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\getting-started\npm
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ686 what-is-npm.md
+27.05.2021  17:03             3ÿ591 what-is-the-file-package-json.md
+               2 File(s)          6ÿ277 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\HTTP
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          servers
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\HTTP\servers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ051 how-to-create-a-HTTP-server.md
+               1 File(s)          4ÿ051 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\javascript-conventions
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ021 what-is-json.md
+27.05.2021  17:03             3ÿ372 what-is-the-arguments-object.md
+               2 File(s)          8ÿ393 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\pt-br\knowledge\REPL
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ355 how-to-create-a-custom-repl.md
+27.05.2021  17:03             4ÿ344 how-to-use-nodejs-repl.md
+               2 File(s)          7ÿ699 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               125 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               608 index.md
+27.05.2021  17:03    <DIR>          knowledge
+27.05.2021  17:03             3ÿ456 security.md
+27.05.2021  17:03             3ÿ596 site.json
+               4 File(s)          7ÿ785 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ330 community.md
+27.05.2021  17:03             1ÿ435 governance.md
+27.05.2021  17:03             2ÿ786 index.md
+27.05.2021  17:03            16ÿ665 privacy.md
+27.05.2021  17:03               886 releases.md
+27.05.2021  17:03             1ÿ583 resources.md
+27.05.2021  17:03             1ÿ424 trademark.md
+27.05.2021  17:03            10ÿ970 working-groups.md
+               8 File(s)         41ÿ079 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ881 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             1ÿ957 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          4ÿ838 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ035 abi-stability.md
+27.05.2021  17:03            13ÿ964 anatomy-of-an-http-transaction.md
+27.05.2021  17:03            24ÿ353 backpressuring-in-streams.md
+27.05.2021  17:03             5ÿ060 blocking-vs-non-blocking.md
+27.05.2021  17:03            13ÿ437 buffer-constructor-deprecation.md
+27.05.2021  17:03             9ÿ493 debugging-getting-started.md
+27.05.2021  17:03             6ÿ319 diagnostics-flamegraph.md
+27.05.2021  17:03            15ÿ733 domain-postmortem.md
+27.05.2021  17:03            31ÿ820 dont-block-the-event-loop.md
+27.05.2021  17:03            18ÿ291 event-loop-timers-and-nexttick.md
+27.05.2021  17:03               846 getting-started-guide.md
+27.05.2021  17:03             1ÿ407 index.md
+27.05.2021  17:03             7ÿ607 nodejs-docker-webapp.md
+27.05.2021  17:03             2ÿ307 publishing-napi-modules.md
+27.05.2021  17:03            10ÿ395 simple-profiling.md
+27.05.2021  17:03             7ÿ545 timers-in-node.md
+27.05.2021  17:03            12ÿ296 working-with-different-filesystems.md
+              17 File(s)        187ÿ908 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ277 dependencies.md
+               1 File(s)          3ÿ277 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ248 current.md
+27.05.2021  17:03             1ÿ236 index.md
+27.05.2021  17:03             6ÿ668 package-manager.md
+27.05.2021  17:03             1ÿ151 releases.md
+               4 File(s)         10ÿ303 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ623 code-and-learn.md
+27.05.2021  17:03             1ÿ285 collab-summit.md
+27.05.2021  17:03             3ÿ410 contribute.md
+27.05.2021  17:03             2ÿ234 index.md
+27.05.2021  17:03            20ÿ688 node-meetups.md
+               5 File(s)         29ÿ240 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          advanced
+27.05.2021  17:03    <DIR>          command-line
+27.05.2021  17:03    <DIR>          HTTP
+27.05.2021  17:03    <DIR>          child-processes
+27.05.2021  17:03                81 index.md
+27.05.2021  17:03    <DIR>          javascript-conventions
+27.05.2021  17:03    <DIR>          REPL
+               1 File(s)             81 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\advanced
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          buffers
+27.05.2021  17:03    <DIR>          streams
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\advanced\buffers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             6ÿ841 how-to-use-buffers.md
+               1 File(s)          6ÿ841 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\advanced\streams
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ365 how-to-use-fs-create-read-stream.md
+27.05.2021  17:03             1ÿ282 how-to-use-fs-create-write-stream.md
+27.05.2021  17:03             3ÿ656 how-to-use-stream-pipe.md
+27.05.2021  17:03             2ÿ394 what-are-streams.md
+               4 File(s)          8ÿ697 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\child-processes
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ019 how-to-spawn-a-child-process.md
+               1 File(s)          4ÿ019 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\command-line
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ255 how-to-get-colors-on-the-command-line.md
+27.05.2021  17:03             5ÿ137 how-to-parse-command-line-arguments.md
+27.05.2021  17:03             4ÿ234 how-to-prompt-for-command-line-input.md
+               3 File(s)         14ÿ626 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\HTTP
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          clients
+27.05.2021  17:03    <DIR>          servers
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\HTTP\clients
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ713 how-to-access-query-string-parameters.md
+27.05.2021  17:03             2ÿ798 how-to-create-a-HTTP-request.md
+               2 File(s)          5ÿ511 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\HTTP\servers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ084 how-to-create-a-HTTP-server.md
+27.05.2021  17:03             2ÿ569 how-to-create-a-HTTPS-server.md
+27.05.2021  17:03             2ÿ504 how-to-handle-multipart-form-data.md
+27.05.2021  17:03             2ÿ794 how-to-read-POST-data.md
+27.05.2021  17:03             2ÿ515 how-to-serve-static-files.md
+               5 File(s)         12ÿ466 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\javascript-conventions
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ975 what-are-the-built-in-timer-functions.md
+27.05.2021  17:03             3ÿ126 what-is-the-arguments-object.md
+               2 File(s)          7ÿ101 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ro\knowledge\REPL
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ130 how-to-create-a-custom-repl.md
+27.05.2021  17:03             3ÿ969 how-to-use-nodejs-repl.md
+               2 File(s)          7ÿ099 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               167 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               813 index.md
+27.05.2021  17:03    <DIR>          knowledge
+27.05.2021  17:03             5ÿ731 security.md
+27.05.2021  17:03             4ÿ173 site.json
+               4 File(s)         10ÿ884 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             8ÿ487 community.md
+27.05.2021  17:03             2ÿ131 governance.md
+27.05.2021  17:03             4ÿ866 index.md
+27.05.2021  17:03             1ÿ445 releases.md
+27.05.2021  17:03             1ÿ995 resources.md
+27.05.2021  17:03             2ÿ490 trademark.md
+27.05.2021  17:03            16ÿ965 working-groups.md
+               7 File(s)         38ÿ379 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ147 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             2ÿ624 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          7ÿ771 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             9ÿ267 blocking-vs-non-blocking.md
+27.05.2021  17:03            15ÿ939 debugging-getting-started.md
+27.05.2021  17:03            11ÿ061 diagnostics-flamegraph.md
+27.05.2021  17:03               967 getting-started-guide.md
+27.05.2021  17:03             1ÿ540 index.md
+27.05.2021  17:03            12ÿ049 nodejs-docker-webapp.md
+27.05.2021  17:03            14ÿ951 simple-profiling.md
+27.05.2021  17:03            12ÿ280 timers-in-node.md
+               8 File(s)         78ÿ054 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ611 dependencies.md
+               1 File(s)          5ÿ611 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ004 current.md
+27.05.2021  17:03             1ÿ996 index.md
+27.05.2021  17:03             8ÿ416 package-manager.md
+27.05.2021  17:03             1ÿ565 releases.md
+               4 File(s)         13ÿ981 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ903 code-and-learn.md
+27.05.2021  17:03             2ÿ187 collab-summit.md
+27.05.2021  17:03             5ÿ266 contribute.md
+27.05.2021  17:03             3ÿ203 index.md
+27.05.2021  17:03            23ÿ403 node-meetups.md
+               5 File(s)         35ÿ962 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\knowledge
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          file-system
+27.05.2021  17:03                91 index.md
+               1 File(s)             91 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\ru\knowledge\file-system
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ412 how-to-read-files-in-nodejs.md
+               1 File(s)          3ÿ412 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\tr
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               126 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03               676 index.md
+27.05.2021  17:03             3ÿ725 site.json
+               3 File(s)          4ÿ527 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\tr\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ490 index.md
+27.05.2021  17:03             1ÿ665 resources.md
+               2 File(s)          5ÿ155 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\tr\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ126 index.md
+               1 File(s)          2ÿ126 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\tr\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ381 current.md
+27.05.2021  17:03             1ÿ392 index.md
+               2 File(s)          2ÿ773 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               173 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               832 index.md
+27.05.2021  17:03    <DIR>          knowledge
+27.05.2021  17:03             5ÿ754 security.md
+27.05.2021  17:03             3ÿ905 site.json
+               4 File(s)         10ÿ664 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             8ÿ576 community.md
+27.05.2021  17:03             9ÿ632 governance.md
+27.05.2021  17:03             4ÿ804 index.md
+27.05.2021  17:03               540 releases.md
+27.05.2021  17:03             1ÿ909 resources.md
+               5 File(s)         25ÿ461 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ875 es6.md
+27.05.2021  17:03             2ÿ716 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          7ÿ591 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ336 dependencies.md
+               1 File(s)          5ÿ336 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ732 current.md
+27.05.2021  17:03             1ÿ985 index.md
+27.05.2021  17:03             1ÿ200 releases.md
+               3 File(s)          4ÿ917 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ498 code-and-learn.md
+27.05.2021  17:03             4ÿ067 contribute.md
+27.05.2021  17:03             2ÿ227 index.md
+               3 File(s)          7ÿ792 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\uk\knowledge
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03                91 index.md
+               1 File(s)             91 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               116 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               599 index.md
+27.05.2021  17:03             3ÿ139 security.md
+27.05.2021  17:03             3ÿ739 site.json
+               4 File(s)          7ÿ593 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ908 community.md
+27.05.2021  17:03             1ÿ440 governance.md
+27.05.2021  17:03             2ÿ935 index.md
+27.05.2021  17:03            13ÿ206 privacy.md
+27.05.2021  17:03               916 releases.md
+27.05.2021  17:03             1ÿ518 resources.md
+27.05.2021  17:03             1ÿ240 trademark.md
+27.05.2021  17:03             9ÿ783 working-groups.md
+               8 File(s)         35ÿ946 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ930 es6.md
+27.05.2021  17:03    <DIR>          guides
+27.05.2021  17:03             1ÿ857 index.md
+27.05.2021  17:03    <DIR>          meta
+               2 File(s)          4ÿ787 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn\docs\guides
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             5ÿ789 abi-stability.md
+27.05.2021  17:03            15ÿ734 anatomy-of-an-http-transaction.md
+27.05.2021  17:03            25ÿ234 backpressuring-in-streams.md
+27.05.2021  17:03             4ÿ471 blocking-vs-non-blocking.md
+27.05.2021  17:03            13ÿ158 buffer-constructor-deprecation.md
+27.05.2021  17:03             9ÿ094 debugging-getting-started.md
+27.05.2021  17:03             6ÿ658 diagnostics-flamegraph.md
+27.05.2021  17:03            14ÿ355 domain-postmortem.md
+27.05.2021  17:03            32ÿ682 dont-block-the-event-loop.md
+27.05.2021  17:03            16ÿ991 event-loop-timers-and-nexttick.md
+27.05.2021  17:03               729 getting-started-guide.md
+27.05.2021  17:03             1ÿ398 index.md
+27.05.2021  17:03             7ÿ807 nodejs-docker-webapp.md
+27.05.2021  17:03             2ÿ081 publishing-napi-modules.md
+27.05.2021  17:03             9ÿ805 simple-profiling.md
+27.05.2021  17:03             7ÿ071 timers-in-node.md
+27.05.2021  17:03            11ÿ315 working-with-different-filesystems.md
+              17 File(s)        184ÿ372 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn\docs\meta
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          topics
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn\docs\meta\topics
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ201 dependencies.md
+               1 File(s)          3ÿ201 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ310 current.md
+27.05.2021  17:03             1ÿ305 index.md
+27.05.2021  17:03             6ÿ885 package-manager.md
+27.05.2021  17:03             1ÿ053 releases.md
+               4 File(s)         10ÿ553 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-cn\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ419 code-and-learn.md
+27.05.2021  17:03             1ÿ027 collab-summit.md
+27.05.2021  17:03             2ÿ882 contribute.md
+27.05.2021  17:03             2ÿ021 index.md
+               4 File(s)          7ÿ349 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-tw
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               115 404.md
+27.05.2021  17:03    <DIR>          about
+27.05.2021  17:03    <DIR>          docs
+27.05.2021  17:03    <DIR>          download
+27.05.2021  17:03    <DIR>          get-involved
+27.05.2021  17:03               619 index.md
+27.05.2021  17:03             2ÿ935 security.md
+27.05.2021  17:03             3ÿ493 site.json
+               4 File(s)          7ÿ162 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-tw\about
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ434 governance.md
+27.05.2021  17:03             2ÿ820 index.md
+27.05.2021  17:03               863 releases.md
+27.05.2021  17:03             1ÿ499 resources.md
+               4 File(s)          6ÿ616 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-tw\docs
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ731 index.md
+               1 File(s)          1ÿ731 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-tw\download
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ294 current.md
+27.05.2021  17:03             1ÿ286 index.md
+27.05.2021  17:03             6ÿ570 package-manager.md
+27.05.2021  17:03             1ÿ019 releases.md
+               4 File(s)         10ÿ169 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\locale\zh-tw\get-involved
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ396 code-and-learn.md
+27.05.2021  17:03             1ÿ080 collab-summit.md
+27.05.2021  17:03             2ÿ725 contribute.md
+27.05.2021  17:03             2ÿ006 index.md
+               4 File(s)          7ÿ207 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\scripts
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          contributor-list
+27.05.2021  17:03    <DIR>          helpers
+27.05.2021  17:03               538 load-versions.js
+27.05.2021  17:03    <DIR>          plugins
+27.05.2021  17:03               378 release.hbs
+27.05.2021  17:03             6ÿ636 release-post.js
+27.05.2021  17:03             1ÿ332 vnu-jar.js
+               4 File(s)          8ÿ884 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\scripts\contributor-list
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             3ÿ413 index.js
+27.05.2021  17:03               205 package.json
+27.05.2021  17:03            16ÿ650 package-lock.json
+27.05.2021  17:03               184 README.md
+               4 File(s)         20ÿ452 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\scripts\helpers
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               497 apidocslink.js
+27.05.2021  17:03             4ÿ965 downloads.js
+27.05.2021  17:03               126 equals.js
+27.05.2021  17:03               647 changeloglink.js
+27.05.2021  17:03                68 json.js
+27.05.2021  17:03               542 latestversion.js
+27.05.2021  17:03               184 majorapidocslink.js
+27.05.2021  17:03             1ÿ753 release-schedule.js
+27.05.2021  17:03                64 slashes.js
+27.05.2021  17:03               143 startswith.js
+27.05.2021  17:03               490 strftime.js
+27.05.2021  17:03                70 stripv.js
+27.05.2021  17:03             1ÿ416 summary.js
+              13 File(s)         10ÿ965 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\scripts\plugins
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             2ÿ019 anchor-markdown-headings.js
+27.05.2021  17:03               348 debug.js
+27.05.2021  17:03             1ÿ059 githubLinks.js
+27.05.2021  17:03             1ÿ313 navigation.js
+               4 File(s)          4ÿ739 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\source
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             1ÿ283 schedule.json
+27.05.2021  17:03           126ÿ466 versions.json
+               2 File(s)        127ÿ749 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          documents
+27.05.2021  17:03    <DIR>          images
+27.05.2021  17:03    <DIR>          js
+27.05.2021  17:03    <DIR>          legacy
+27.05.2021  17:03               112 robots.txt
+27.05.2021  17:03                68 security.txt
+               2 File(s)            180 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\documents
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03           321ÿ394 2016-survey-infographic.png
+27.05.2021  17:03         1ÿ638ÿ188 2016-survey-report.pdf
+27.05.2021  17:03           920ÿ893 foundation-visual-guidelines.pdf
+27.05.2021  17:03           230ÿ840 nodeconf.pdf
+27.05.2021  17:03           197ÿ007 trademark-policy.pdf
+               5 File(s)      3ÿ308ÿ322 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          blog
+27.05.2021  17:03             2ÿ049 community-icons.png
+27.05.2021  17:03    <DIR>          favicons
+27.05.2021  17:03             3ÿ996 logo.png
+27.05.2021  17:03             5ÿ759 logo.svg
+27.05.2021  17:03            14ÿ995 logo-hexagon.png
+27.05.2021  17:03             2ÿ286 logo-hexagon.svg
+27.05.2021  17:03            10ÿ622 logo-hexagon-card.png
+27.05.2021  17:03             4ÿ009 logo-light.png
+27.05.2021  17:03             5ÿ759 logo-light.svg
+27.05.2021  17:03    <DIR>          logos
+27.05.2021  17:03            52ÿ971 node-cert-logo.png
+27.05.2021  17:03             4ÿ525 openjs_foundation-logo.svg
+              10 File(s)        106ÿ971 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03           641ÿ565 201609_lts_schedule_summary.gif
+27.05.2021  17:03    <DIR>          module
+27.05.2021  17:03    <DIR>          npm
+27.05.2021  17:03    <DIR>          release
+27.05.2021  17:03    <DIR>          uncategorized
+27.05.2021  17:03    <DIR>          weekly-update
+               1 File(s)        641ÿ565 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\module
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            97ÿ774 bunyan.png
+               1 File(s)         97ÿ774 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\npm
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          2013-outage-postmortem
+27.05.2021  17:03    <DIR>          managing-node-js-dependencies-with-shrinkwrap
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\npm\2013-outage-postmortem
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03           163ÿ078 bapm3fk8Ve-3000x3000.png
+27.05.2021  17:03           192ÿ532 xu1faVCq8p-3000x3000.png
+27.05.2021  17:03           278ÿ228 XwrpFNICJ2-3000x3000.png
+               3 File(s)        633ÿ838 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\npm\managing-node-js-dependencies-with-shrinkwrap
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            21ÿ393 web-300x300.jpg
+               1 File(s)         21ÿ393 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\release
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            30ÿ401 lts.png
+               1 File(s)         30ÿ401 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\uncategorized
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          evolving-the-node-js-brand
+27.05.2021  17:03    <DIR>          ldapjs-a-reprise-of-ldap
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\uncategorized\evolving-the-node-js-brand
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            25ÿ911 grid.png
+27.05.2021  17:03            73ÿ095 network.png
+27.05.2021  17:03           152ÿ165 node.png
+27.05.2021  17:03             2ÿ756 nodejs.png
+27.05.2021  17:03             2ÿ861 tri-color-node.png
+               5 File(s)        256ÿ788 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\uncategorized\ldapjs-a-reprise-of-ldap
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            82ÿ699 uR16U.png
+               1 File(s)         82ÿ699 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\blog\weekly-update
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03            22ÿ262 d7c62f3e-d94c-11e5-8ff8-f32c74b13cc3.png
+               1 File(s)         22ÿ262 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\favicons
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ890 android-chrome-192x192.png
+27.05.2021  17:03            26ÿ952 android-chrome-512x512.png
+27.05.2021  17:03             7ÿ384 apple-touch-icon.png
+27.05.2021  17:03               245 browserconfig.xml
+27.05.2021  17:03            15ÿ086 favicon.ico
+27.05.2021  17:03               585 favicon-16x16.png
+27.05.2021  17:03             1ÿ180 favicon-32x32.png
+27.05.2021  17:03               420 manifest.json
+27.05.2021  17:03             5ÿ538 mstile-150x150.png
+27.05.2021  17:03               466 safari-pinned-tab.svg
+              10 File(s)         65ÿ746 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\images\logos
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03           661ÿ498 js-black.eps
+27.05.2021  17:03             1ÿ205 js-black.svg
+27.05.2021  17:03             1ÿ205 js-green.svg
+27.05.2021  17:03               173 node-favicon.png
+27.05.2021  17:03             2ÿ262 nodejs.png
+27.05.2021  17:03           587ÿ222 nodejs-black.eps
+27.05.2021  17:03             1ÿ978 nodejs-black.png
+27.05.2021  17:03           651ÿ990 nodejs-dark.eps
+27.05.2021  17:03             1ÿ904 nodejs-dark.png
+27.05.2021  17:03           672ÿ202 nodejs-green.eps
+27.05.2021  17:03             1ÿ904 nodejs-green.png
+27.05.2021  17:03           588ÿ914 nodejs-light.eps
+27.05.2021  17:03           387ÿ655 nodejs-new-black.ai
+27.05.2021  17:03             4ÿ332 nodejs-new-black.svg
+27.05.2021  17:03           389ÿ976 nodejs-new-pantone-black.ai
+27.05.2021  17:03             5ÿ456 nodejs-new-pantone-black.svg
+27.05.2021  17:03           387ÿ963 nodejs-new-pantone-white.ai
+27.05.2021  17:03             5ÿ456 nodejs-new-pantone-white.svg
+27.05.2021  17:03           374ÿ374 nodejs-new-white.ai
+27.05.2021  17:03             4ÿ398 nodejs-new-white.svg
+              20 File(s)      4ÿ732ÿ067 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\js
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             7ÿ806 main.js
+               1 File(s)          7ÿ806 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\legacy
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          images
+27.05.2021  17:03            12ÿ181 lfcollab.css
+27.05.2021  17:03            15ÿ814 pipe.css
+27.05.2021  17:03               575 README.md
+27.05.2021  17:03             3ÿ484 sh_javascript.min.js
+27.05.2021  17:03            15ÿ299 sh_main.js
+27.05.2021  17:03               542 sh_vim-dark.css
+               6 File(s)         47ÿ895 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\static\legacy\images
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03               420 anchor.png
+27.05.2021  17:03               401 apple-touch-icon.png
+27.05.2021  17:03               303 close-downloads.png
+27.05.2021  17:03             4ÿ544 community-icons.png
+27.05.2021  17:03             4ÿ287 download-logo.png
+27.05.2021  17:03             1ÿ114 ebay-logo.png
+27.05.2021  17:03            15ÿ086 favicon.ico
+27.05.2021  17:03             1ÿ215 footer-logo.png
+27.05.2021  17:03             1ÿ055 footer-logo-alt.png
+27.05.2021  17:03               876 forkme.png
+27.05.2021  17:03             1ÿ084 home-icons.png
+27.05.2021  17:03             1ÿ083 icons.png
+27.05.2021  17:03             3ÿ706 icons-interior.png
+27.05.2021  17:03             1ÿ023 joyent-logo_orange_nodeorg-01.png
+27.05.2021  17:03             1ÿ364 linkedin-logo.png
+27.05.2021  17:03             3ÿ071 logo.png
+27.05.2021  17:03             3ÿ126 logo.svg
+27.05.2021  17:03             5ÿ992 logo-header.png
+27.05.2021  17:03             1ÿ293 logo-light.png
+27.05.2021  17:03             3ÿ554 logo-light.svg
+27.05.2021  17:03             1ÿ593 microsoft-logo.png
+27.05.2021  17:03           172ÿ126 not-invented-here.png
+27.05.2021  17:03            11ÿ912 ryan-speaker.jpg
+27.05.2021  17:03             2ÿ917 sponsored.png
+27.05.2021  17:03                71 stripe.png
+27.05.2021  17:03               239 twitter-bird.png
+27.05.2021  17:03            18ÿ767 walmart-thumb.jpg
+27.05.2021  17:03             1ÿ566 yahoo-logo.png
+              28 File(s)        263ÿ788 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\tests
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03    <DIR>          scripts
+               0 File(s)              0 bytes
+
+ Directory of D:\Users\13hon\repo\nodeJt\nodejs.org\tests\scripts
+
+27.05.2021  17:03    <DIR>          .
+27.05.2021  17:03    <DIR>          ..
+27.05.2021  17:03             4ÿ382 anchor-mardown-headings.test.js
+27.05.2021  17:03            30ÿ032 CHANGELOG.fixture.legacy.md
+27.05.2021  17:03           243ÿ535 CHANGELOG.fixture.md
+27.05.2021  17:03             1ÿ543 latestversion.test.js
+27.05.2021  17:03             9ÿ911 release-post.test.js
+               5 File(s)        289ÿ403 bytes
+
+     Total Files Listed:
+            1602 File(s)    106ÿ756ÿ404 bytes
+             758 Dir(s)  230ÿ939ÿ000ÿ832 bytes free
